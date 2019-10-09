@@ -1,10 +1,22 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/sbt.png" group-title="CANAL ABERTO", SBT - TV Jornal Caruaru (PE)
 http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BAND SP" tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="Canais", BAND SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="CANAL ABERTO", RedeTV! (SP)
 http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+
+#EXTINF:-1 tvg-id"REDE TV RJ"  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="Canais", REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/goo.gl/1XNfzj" group-title="CANAL ABERTO", TV Gazeta (SP)
 http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
@@ -29,6 +41,9 @@ http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?ValterHD
  
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/l2Fy8cv.png" group-title="RELIGIOSO", Rede Super
 http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8?IPTVPLENITUDE
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redesuper.png" group-title="Aberta",REDE SUPER
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
  
 #EXTINF:-1 tvg-logo="https://i0.wp.com/i.imgur.com/IZKxzJ9.png" group-title="RELIGIOSO", Novo Tempo RS
 http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8?IPTVPLENITUDE
@@ -98,3 +113,342 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/1music.jpg" group-title="Musica", 1Music
 http://92.249.129.152/stream/1music.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-1_m.png" group-title="TVCATV",TELECINE ACTION
+http://playback.imirun.net:8080/TelecineAction/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-action-1_m.png" group-title="TVCATV",TELECINE ACTION
+http://playback.imirun.net:8080/TelecineAction/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE PIPOCA" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-pipoca-1_m.png" group-title="TVCATV",TELECINE PIPOCA
+http://playback.imirun.net:8080/TelecinePipoca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE PREMIUM" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-1_m.png" group-title="TVCATV",TELECINE PREMIUM
+http://playback.imirun.net:8080/TelecinePremium/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE TOUCH" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-touch-1_m.png" group-title="TVCATV",TELECINE TOUCH
+http://playback.imirun.net:8080/TelecineTouchHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE CULT" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-cult-1_m.png" group-title="TVCATV",TELECINE CULT
+http://playback.imirun.net:8080/TelecineCult/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TELECINE MEGAPIX" tvg-logo="https://cdn.mitvstatic.com/channels/br_mega-pix-1_m.png" group-title="TVCATV",MEGAPIX
+http://hvod.imirun.net:8080/Megapix/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOX" tvg-logo="https://www.redesat.com.br/uploads/canal_1421441466.png" group-title="TVCATV",FOX
+http://hvod.imirun.net:8080/FOX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://sky.vteximg.com.br/arquivos/ids/156020-750-750/cinemax.png?v=636446260713800000" group-title="TVCATV",CINEMAX
+http://playback.imirun.net:8080/Cinemax-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="http://4.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhBw/iAESgIKgW9c/s1600/tnt_hd.png" group-title="TVCATV",TNT
+http://hvod.imirun.net:8080/TNT-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SONY" tvg-logo="" group-title="TVCATV",CANAL SONY
+http://playback.imirun.net:8080/Canalsony/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="" group-title="TVCATV", Disney Channel
+http://hvod.imirun.net:8080/DisneyChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTE",PREMIERE FC 6
+http://hvod.imirun.net:8080/Premiere-6-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" goup-title="TVCATV",PREMIERE FC 4
+http://hvod.imirun.net:8080/Premiere-4-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE FC 3
+http://hvod.imirun.net:8080/Premiere-3-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE FC 2
+http://hvod.imirun.net:8080/Premiere-2-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE FC 
+http://hvod.imirun.net:8080/Premiere-Clubes-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE FC 5 
+http://hvod.imirun.net:8080/Premiere-5-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE FC
+http://hvod.imirun.net:8080/Premiere-Clubes-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",ESPN EXTRA
+http://c3170-gbbrslbps-sambatech.akamaized.net:80/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b503808.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV" , BAND SPORT
+http://hvod.imirun.net:8080/Band-Sports/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV" , BOOMERANG
+http://playback.imirun.net:8080/Boomerang/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV" , CANAL BRASIL
+http://hvod.imirun.net:8080/CanalBrasil/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV" , DISCOVERY  H&H
+http://hvod.imirun.net:8080/DiscoveryH&H/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV" , DISCOVERY TURBO HD
+http://hvod.imirun.net:8080/DiscoveryTurbo-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV" , DISCOVERY SCIENCE
+http://hvod.imirun.net:8080/DiscoveryScience/index.m3u8
+
+#EXTINF:-1 tvg-logo="" goup-title="TVCATV",A&E
+http://hvod.imirun.net:8080/A&E-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",A&E.
+http://hvod.imirun.net:8080/A&E-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",ARTE1
+http://hvod.imirun.net:8080/Arte1-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",BIS
+http://playback.imirun.net:8080//BIS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",CINEMAX
+http://playback.imirun.net:8080//Cinemax-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",COMEDY CENTRAL
+http://playback.imirun.net:8080//ComedyCentral/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Esportes",COMBATE
+http://playback.imirun.net:8080/Combate/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY CIVILIZATION
+http://playback.imirun.net:8080//DiscoveryCivilization-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY H&H
+http://playback.imirun.net:8080//DiscoveryH&H-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY KIDS
+http://playback.imirun.net:8080//DiscoveryKids/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY SCIENCE
+http://playback.imirun.net:8080//DiscoveryScienceHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY THEATER
+http://playback.imirun.net:8080//DiscoveryTheater-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY TURBO
+http://playback.imirun.net:8080//DiscoveryTurbo-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISCOVERY WORLD
+http://playback.imirun.net:8080//DiscoveryWorldHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISNEY CHANNEL HD
+http://playback.imirun.net:8080//DisneyChannelHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",DISNEY JUNIOR
+http://playback.imirun.net:8080//DisneyJunior/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",E!
+http://playback.imirun.net:8080//E!HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",ESPN+
+http://hvod.imirun.net:8080/ESPN+/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",ESPN
+http://hvod.imirun.net:8080/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",FOOD NETWORK
+http://playback.imirun.net:8080//FoodNetworkHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",LIFETIME
+http://playback.imirun.net:8080/Lifetime-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",FOX PREMIUM 1
+http://hvod.imirun.net:8080/Fox-Premium-1-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",FOX PREMIUM 2
+http://hvod.imirun.net:8080/Fox-Premium-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",FOX
+http://hvod.imirun.net:8080/FOX/index.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",FX
+http://hvod.imirun.net:8080/FX/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",GLOOB
+http://hvod.imirun.net:8080/Gloob-HD/index.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",GNT
+http://playback.imirun.net:8080//GNT-HD/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",H2
+http://playback.imirun.net:8080//H2-HD/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",HBO 2
+http://playback.imirun.net:8080//HBO2/tracks-v1a1/mono.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",HBO
+http://hvod.imirun.net:8080/HBO-HD/index.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",INVESTIGACAO DISCOVERY
+http://playback.imirun.net:8080//InvestigacaoDiscoveryHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",LIFETIME
+http://playback.imirun.net:8080//Lifetime-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",MAX UP
+http://playback.imirun.net:8080//MaxUpHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",MEGA PIX
+http://hvod.imirun.net:8080/Megapix/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",NATIONAL GEOGRAPHIC
+http://hvod.imirun.net:8080/National-Geographic-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",NAT GEO WILD
+http://playback.imirun.net:8080//NatGeoWild-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",MTV
+http://playback.imirun.net:8080//MTVHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",MULTISHOW HD
+http://playback.imirun.net:8080//MultishowHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",OFF
+http://playback.imirun.net:8080//OFF/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE CLUBES
+http://hvod.imirun.net:8080/Premiere-Clubes-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE 2
+http://hvod.imirun.net:8080/Premiere-2-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE 3
+http://hvod.imirun.net:8080/Premiere-3-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE 4
+http://hvod.imirun.net:8080/Premiere-4-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE 5
+http://hvod.imirun.net:8080/Premiere-5-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PREMIERE 6
+http://hvod.imirun.net:8080/Premiere-6-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",PARAMOUNT
+http://hvod.imirun.net:8080/ParamountHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",RECORD NEWS
+http://hvod.imirun.net:8080/Record-News-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",TNT
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",RECORD SP
+http://hvod.imirun.net:8080/RecordSP/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",REDE TV
+http://hvod.imirun.net:8080/REDETVHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",SYFY
+http://hvod.imirun.net:8080/SyFyHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",SBT
+http://hvod.imirun.net:8080/SBTHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",SPACE
+http://hvod.imirun.net:8080/SpaceHD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",CANAL SONY HD
+http://hvod.imirun.net:8080/canalsony-hd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",TBS
+http://playback.imirun.net:8080//TBSHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",TELECINE ACTION HD
+http://playback.imirun.net:8080//TelecineActionHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",TELECINE PIPOCA HD
+http://playback.imirun.net:8080/TelecinePipoca/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",TELECINE CULT HD
+http://playback.imirun.net:8080//TelecineCult/tracks-v1a1/mono.m3u8
+
+EXTINF:-1 tvg-logo="" group-title="TVCATV",TELECINE FUN HD
+http://playback.imirun.net:8080/TelecineFun/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",TELECINE PREMIUM HD
+http://playback.imirun.net:8080//TelecinePremium/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",TELECINE TOUCH HD
+http://playback.imirun.net:8080//TelecineTouch/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",TNT HD
+http://hvod.imirun.net:8080/TNT-HD/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",TCM
+http://playback.imirun.net:8080//TCM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",TBS
+http://playback.imirun.net:8080//TBS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",TVGAZETA
+http://playback.imirun.net:8080//TVGazeta/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",TNT SERIES
+http://playback.imirun.net:8080//TNTSeries/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TVCATV",WARNER CHANNEL
+http://hvod.imirun.net:8080/WarnerChannel/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSO",TV APARECIDA
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Boa Esperanca 
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Missao 
+rtmp://wse7.player.tv.br:1935/tvmissao/ playpath=tvmissao swfUrl=http://wse7.player.tv.br/assets/plugins/jwplayer-7.0.1/jwplayer.flash.swf pageUrl=http://www.tvmissao.com.br/
+
+#EXTINF:-1 tvg-logo="" group-title="EVANGELICO", Tv Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1MEGAHITS.png" tvg-id=" group-title="TV Musicas",VH1 MEGAHITS
+http://stream.1music.hu/stream/1music.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/t1qbf9bZXVBD1Ti1YwKQrL7ZFBStacsU49WXfGfwPd337-t5BHyHHZnGzQ_kW8dMvg=h900" group-title="TV Musicas",NOSSA TV
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/4i8o6fouh/DHING.jpg" group-title="TV Musicas",DJ Hits
+http://www.djing.com/tv/04.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/kqthtnn2h/retromusic.jpg" group-title="TV Musicas",Retro Music
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://s20.postimg.org/5xeu8wfbd/radio105.png" group-title="TV Musicas",Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 0
+http://rtmp.one.by:1200
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 1 HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 4 HD
+http://rtmp.one.by:2300
+
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Kids
+http://192.99.150.31:9431/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",MPB
+http://192.99.150.31:8775/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Forró
+http://192.99.150.31:9019/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Pagode
+http://6d9a.webradio.upx.net.br:9061/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Sertanejo
+http://192.99.150.31:9485/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Funk
+http://192.99.150.31:9089/stream
+#EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Clássico
+http://192.99.150.31:9125/stream
