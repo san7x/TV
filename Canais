@@ -458,3 +458,12 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JASMIN TV " tvg-logo="https://goo.gl/b2ZEuF" group-title="ADULTO+", JASMIN TV 
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 
+title>XXX - Brasileirinhas TV</title>
+
+<url>
+
+rtmp://edge-05.livestreamcast.org/Brasileirinhas/Brasileirinhas playpath=Brasileirinhas swfUrl=http://livestreamcast.org/StrobeMediaPlayback.swf pageUrl=http://livestreamcast.org/embeds.php?c=Brasileirinhas&amp;vw=600&amp;vh=400
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TESTE " tvg-logo="https://goo.gl/CJVrTy" group-title="ADULTO+", Candy TV 
+rtmp://edge-05.livestreamcast.org/Brasileirinhas/Brasileirinhas/playlist.m3u8
