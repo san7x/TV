@@ -452,3 +452,9 @@ http://192.99.150.31:9485/stream
 http://192.99.150.31:9089/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Clássico
 http://192.99.150.31:9125/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="Candy TV " tvg-logo="https://goo.gl/CJVrTy" group-title="ADULTO+", Candy TV 
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JASMIN TV " tvg-logo="https://goo.gl/b2ZEuF" group-title="ADULTO+", JASMIN TV 
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
+
