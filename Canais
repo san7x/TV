@@ -458,3 +458,6 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JASMIN TV " tvg-logo="https://goo.gl/b2ZEuF" group-title="ADULTO+", JASMIN TV 
 http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="A Série Divergente: Insurgente" tvg-logo="http://cdn.poptv.vip:8880/images/3F7QnTC2shU4Ewa7blHWP9eCJj7_small.jpg" group-title="FILMES - AÇÃO",A Série Divergente: Insurgente
+http://cdn.multitv.pw:8880/movie/4572.mp4
+
