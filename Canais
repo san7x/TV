@@ -105,6 +105,8 @@ http://rtmp.one.by:1300
 #EXTINF:-1 tvg-logo="" group-title="TV Musicas",ONE 4 HD
 http://rtmp.one.by:2300
 
+#EXTINF:0,SOBRENATURAL TV
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Kids
 http://192.99.150.31:9431/stream
