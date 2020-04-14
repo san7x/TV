@@ -1,2019 +1,677 @@
 #EXTM3U
-#EXTINF:-1,A&E FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/9344
-#EXTINF:-1,A&E FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39320
-#EXTINF:-1,A&E HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20892
-#EXTINF:-1,A&E HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/8139
-#EXTINF:-1,A&E SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20893
-#EXTINF:-1,A&E SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4404
-#EXTINF:-1,AGRO CANAL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/5983
-#EXTINF:-1,AMC FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/9343
-#EXTINF:-1,AMC HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20890
-#EXTINF:-1,AMC HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7691
-#EXTINF:-1,AMC SD*
-http://srv.tvprodigital.net:25461/alex123/alex123/20891
-#EXTINF:-1,AMC SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7448
-#EXTINF:-1,ANIMAL PLANET 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33758
-#EXTINF:-1,ANIMAL PLANET FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13205
-#EXTINF:-1,Animal Planet FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39321
-#EXTINF:-1,ANIMAL PLANET HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/24628
-#EXTINF:-1,ANIMAL PLANET HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6142
-#EXTINF:-1,ANIMAL PLANET SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20887
-#EXTINF:-1,ANIMAL PLANET SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4403
-#EXTINF:-1,ARTE 1 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11308
-#EXTINF:-1,ARTE 1 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10235
-#EXTINF:-1,Arte 1 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39569
-#EXTINF:-1,AXN FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13212
-#EXTINF:-1,AXN FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39322
-#EXTINF:-1,AXN HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20882
-#EXTINF:-1,AXN HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6140
-#EXTINF:-1,AXN SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20884
-#EXTINF:-1,AXN SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4402
-#EXTINF:-1,Baby FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39424
-#EXTINF:-1,BABY TV HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39203
-#EXTINF:-1,BABY TV SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20871
-#EXTINF:-1,BABY TV SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4401
-#EXTINF:-1,BAND 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33747
-#EXTINF:-1,BAND ARACAJU HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24752
-#EXTINF:-1,BAND BAHIA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30427
-#EXTINF:-1,BAND BRASILIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33274
-#EXTINF:-1,BAND CAMPINAS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33280
-#EXTINF:-1,BAND FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/25008
-#EXTINF:-1,Band FM
-http://srv.tvprodigital.net:25461/alex123/alex123/6840
-#EXTINF:-1,BAND GOIANIA FHD  H265
-http://srv.tvprodigital.net:25461/alex123/alex123/30438
-#EXTINF:-1,BAND GOIANIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/25019
-#EXTINF:-1,BAND HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20874
-#EXTINF:-1,BAND HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6882
-#EXTINF:-1,BAND NEWS FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11536
-#EXTINF:-1,Band News FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39323
-#EXTINF:-1,BAND NEWS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10296
-#EXTINF:-1,BAND NEWS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39527
-#EXTINF:-1,BAND NEWS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4399
-#EXTINF:-1,BAND PARANA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24927
-#EXTINF:-1,BAND RJ HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/25542
-#EXTINF:-1,BAND RS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/25018
-#EXTINF:-1,BAND SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20875
-#EXTINF:-1,BAND SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4400
-#EXTINF:-1,BAND SPORTS FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11535
-#EXTINF:-1,Band Sports FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39324
-#EXTINF:-1,BAND SPORTS HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20863
-#EXTINF:-1,BAND SPORTS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6138
-#EXTINF:-1,BAND SPORTS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20864
-#EXTINF:-1,BAND SPORTS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4398
-#EXTINF:-1,BAND TV TAROBA PARANA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24924
-#EXTINF:-1,BBB 20 CAM 1 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39251
-#EXTINF:-1,BBB 20 CAM 10 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39258
-#EXTINF:-1,BBB 20 CAM 2 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39252
-#EXTINF:-1,BBB 20 CAM 3 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39253
-#EXTINF:-1,BBB 20 CAM 4 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39254
-#EXTINF:-1,BBB 20 CAM 5 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39255
-#EXTINF:-1,BBB 20 CAM 6 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39256
-#EXTINF:-1,BBB 20 CAM 7 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39257
-#EXTINF:-1,BBB 20 CAM 8 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39260
-#EXTINF:-1,BBB 20 CAM 9 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39259
-#EXTINF:-1,BBB20 CAM010
-http://srv.tvprodigital.net:25461/alex123/alex123/34643
-#EXTINF:-1,BBB20 CAM011
-http://srv.tvprodigital.net:25461/alex123/alex123/34644
-#EXTINF:-1,BBB20 CAM02
-http://srv.tvprodigital.net:25461/alex123/alex123/34516
-#EXTINF:-1,BBB20 CAM03
-http://srv.tvprodigital.net:25461/alex123/alex123/34517
-#EXTINF:-1,BBB20 CAM04
-http://srv.tvprodigital.net:25461/alex123/alex123/34518
-#EXTINF:-1,BBB20 CAM05
-http://srv.tvprodigital.net:25461/alex123/alex123/34519
-#EXTINF:-1,BBB20 CAM06
-http://srv.tvprodigital.net:25461/alex123/alex123/34522
-#EXTINF:-1,BBB20 CAM07
-http://srv.tvprodigital.net:25461/alex123/alex123/34521
-#EXTINF:-1,BBB20 CAM08
-http://srv.tvprodigital.net:25461/alex123/alex123/34520
-#EXTINF:-1,BBB20 CAM09
-http://srv.tvprodigital.net:25461/alex123/alex123/34523
-#EXTINF:-1,BBB20 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/34524
-#EXTINF:-1,BBB20 HD² MOSAICO
-http://srv.tvprodigital.net:25461/alex123/alex123/34427
-#EXTINF:-1,BBB20 MOSAICO
-http://srv.tvprodigital.net:25461/alex123/alex123/34525
-#EXTINF:-1,BBB20 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/34428
-#EXTINF:-1,BBB20 HD
-http://srv.tvprodigital.net:25461/alex123/alex123/39250
-#EXTINF:-1,BH FM
-http://srv.tvprodigital.net:25461/alex123/alex123/5836
-#EXTINF:-1,BIS FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11547
-#EXTINF:-1,BIS FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39325
-#EXTINF:-1,BIS HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20866
-#EXTINF:-1,BIS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6881
-#EXTINF:-1,BIS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20868
-#EXTINF:-1,BIS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6964
-#EXTINF:-1,BOOMERANG FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11534
-#EXTINF:-1,Boomerang FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39326
-#EXTINF:-1,BOOMERANG HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39199
-#EXTINF:-1,BOOMERANG SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20857
-#EXTINF:-1,BOOMERANG SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4396
-#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO 1)
-http://srv.tvprodigital.net:25461/alex123/alex123/34636
-#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO2)
-http://srv.tvprodigital.net:25461/alex123/alex123/34637
-#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO3)
-http://srv.tvprodigital.net:25461/alex123/alex123/34638
-#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO4)
-http://srv.tvprodigital.net:25461/alex123/alex123/34639
-#EXTINF:-1,CANAL 4FUN SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39197
-#EXTINF:-1,Canal Brasil FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39436
-#EXTINF:-1,CANAL BRASIL HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10293
-#EXTINF:-1,CANAL BRASIL SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20838
-#EXTINF:-1,CANAL BRASIL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6963
-#EXTINF:-1,CANAL DO BOI SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/11287
-#EXTINF:-1,CANAL SONY FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13202
-#EXTINF:-1,CANAL SONY HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20527
-#EXTINF:-1,CANAL SONY HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6961
-#EXTINF:-1,CANAL SONY SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20529
-#EXTINF:-1,CANAL SONY SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4395
-#EXTINF:-1,CANCAO NOVA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30662
-#EXTINF:-1,CANCAO NOVA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6173
-#EXTINF:-1,CARTOON NETWORK 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33761
-#EXTINF:-1,CARTOON NETWORK FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13210
-#EXTINF:-1,Cartoon Network FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39327
-#EXTINF:-1,CARTOON NETWORK HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20844
-#EXTINF:-1,CARTOON NETWORK HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7817
-#EXTINF:-1,CARTOON NETWORK SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20845
-#EXTINF:-1,CARTOON NETWORK SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4394
-#EXTINF:-1,Chef TV FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39420
-#EXTINF:-1,Chef TV HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39225
-#EXTINF:-1,Chef TV SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39570
-#EXTINF:-1,CINEMAX FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/10993
-#EXTINF:-1,Cinemax FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39328
-#EXTINF:-1,CINEMAX HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20834
-#EXTINF:-1,CINEMAX HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7802
-#EXTINF:-1,CINEMAX SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/24630
-#EXTINF:-1,CINEMAX SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4393
-#EXTINF:-1,CNN Espanhol FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39433
-#EXTINF:-1,CNN ESPANHOL HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39230
-#EXTINF:-1,CNN ESPANHOL SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39528
-#EXTINF:-1,CNN Internacional FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39439
-#EXTINF:-1,CNN INTERNACIONAL SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39529
-#EXTINF:-1,CNN INTERNACIONAL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20506
-#EXTINF:-1,COMBATE 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33748
-#EXTINF:-1,COMBATE FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/8152
-#EXTINF:-1,Combate FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39329
-#EXTINF:-1,COMBATE HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20831
-#EXTINF:-1,COMBATE HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6172
-#EXTINF:-1,COMBATE SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20832
-#EXTINF:-1,COMBATE SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4392
-#EXTINF:-1,COMEDY CENTRAL FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/24920
-#EXTINF:-1,Comedy Central FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39330
-#EXTINF:-1,COMEDY CENTRAL HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20827
-#EXTINF:-1,COMEDY CENTRAL HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10292
-#EXTINF:-1,COMEDY CENTRAL SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20828
-#EXTINF:-1,COMEDY CENTRAL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4391
-#EXTINF:-1,COPA CATARINENSE 2 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39275
-#EXTINF:-1,COPA CATARINENSE HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39274
-#EXTINF:-1,COPA DO NORDESTE 2 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39276
-#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 2)
-http://srv.tvprodigital.net:25461/alex123/alex123/34633
-#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 3)
-http://srv.tvprodigital.net:25461/alex123/alex123/34634
-#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 4)
-http://srv.tvprodigital.net:25461/alex123/alex123/34635
-#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO1)
-http://srv.tvprodigital.net:25461/alex123/alex123/34632
-#EXTINF:-1,COPA DO NORDESTE HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39273
-#EXTINF:-1,COPA LIBERTADORES
-http://srv.tvprodigital.net:25461/alex123/alex123/32205
-#EXTINF:-1,CURTA SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20826
-#EXTINF:-1,Curta! FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39417
-#EXTINF:-1,CURTA! HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39223
-#EXTINF:-1,CURTA! SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10291
-#EXTINF:-1,DAZN FHD  H264
-http://srv.tvprodigital.net:25461/alex123/alex123/31005
-#EXTINF:-1,DAZN HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30422
-#EXTINF:-1,DAZN HD¹ 2
-http://srv.tvprodigital.net:25461/alex123/alex123/33638
-#EXTINF:-1,DAZN HD¹ 3
-http://srv.tvprodigital.net:25461/alex123/alex123/33639
-#EXTINF:-1,DAZN HD¹ 4
-http://srv.tvprodigital.net:25461/alex123/alex123/33640
-#EXTINF:-1,DAZN SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39249
-#EXTINF:-1,DISCOVERY CHANNEL 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33754
-#EXTINF:-1,DISCOVERY CHANNEL FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11548
-#EXTINF:-1,Discovery Channel FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39331
-#EXTINF:-1,DISCOVERY CHANNEL HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20824
-#EXTINF:-1,DISCOVERY CHANNEL HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6132
-#EXTINF:-1,DISCOVERY CHANNEL SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20825
-#EXTINF:-1,DISCOVERY CHANNEL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4390
-#EXTINF:-1,DISCOVERY HOME & HEALTH FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11533
-#EXTINF:-1,Discovery Home & Health FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39333
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20813
-#EXTINF:-1,DISCOVERY HOME & HEALTH HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6131
-#EXTINF:-1,DISCOVERY HOME & HEALTH SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4389
-#EXTINF:-1,DISCOVERY HOME & HELTH SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20814
-#EXTINF:-1,Discovery ID FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39359
-#EXTINF:-1,DISCOVERY KIDS FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11532
-#EXTINF:-1,Discovery Kids FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39334
-#EXTINF:-1,DISCOVERY KIDS HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20816
-#EXTINF:-1,DISCOVERY KIDS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7538
-#EXTINF:-1,DISCOVERY KIDS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20818
-#EXTINF:-1,DISCOVERY KIDS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4388
-#EXTINF:-1,DISCOVERY SCIENCE FHD  H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13206
-#EXTINF:-1,Discovery Science FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39335
-#EXTINF:-1,DISCOVERY SCIENCE HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20811
-#EXTINF:-1,DISCOVERY SCIENCE HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7861
-#EXTINF:-1,Discovery Science SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39572
-#EXTINF:-1,DISCOVERY SCIENCE SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10237
-#EXTINF:-1,DISCOVERY THEATER FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11530
-#EXTINF:-1,DISCOVERY THEATER HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20806
-#EXTINF:-1,DISCOVERY THEATER HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6130
-#EXTINF:-1,DISCOVERY THEATER SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10289
-#EXTINF:-1,Discovery Theather FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39336
-#EXTINF:-1,Discovery Theather SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39573
-#EXTINF:-1,DISCOVERY TURBO FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11531
-#EXTINF:-1,Discovery Turbo FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39337
-#EXTINF:-1,DISCOVERY TURBO HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20808
-#EXTINF:-1,DISCOVERY TURBO HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6877
-#EXTINF:-1,DISCOVERY TURBO SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20809
-#EXTINF:-1,DISCOVERY TURBO SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4386
-#EXTINF:-1,Discovery World FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39338
-#EXTINF:-1,DISCOVERY WORLD HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20801
-#EXTINF:-1,DISCOVERY WORLD HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6128
-#EXTINF:-1,Discovery World SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39574
-#EXTINF:-1,DISCOVERY WORLD SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10288
-#EXTINF:-1,DISNEY CHANNEL FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11546
-#EXTINF:-1,Disney Channel FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39339
-#EXTINF:-1,DISNEY CHANNEL HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20797
-#EXTINF:-1,DISNEY CHANNEL HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7902
-#EXTINF:-1,DISNEY CHANNEL SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20799
-#EXTINF:-1,DISNEY CHANNEL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4385
-#EXTINF:-1,Disney JR FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39340
-#EXTINF:-1,DISNEY JUNIOR FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13207
-#EXTINF:-1,DISNEY JUNIOR HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20794
-#EXTINF:-1,DISNEY JUNIOR HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10286
-#EXTINF:-1,DISNEY JUNIOR SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20795
-#EXTINF:-1,DISNEY JUNIOR SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4384
-#EXTINF:-1,Disney XD FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39430
-#EXTINF:-1,DISNEY XD HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20791
-#EXTINF:-1,DISNEY XD SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20792
-#EXTINF:-1,DISNEY XD SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4383
-#EXTINF:-1,DW SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4425
-#EXTINF:-1,E! FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39409
-#EXTINF:-1,E! HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20788
-#EXTINF:-1,E! HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10285
-#EXTINF:-1,E! SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20789
-#EXTINF:-1,E! SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4382
-#EXTINF:-1,EI PLUS 2 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39268
-#EXTINF:-1,EI PLUS 2  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33613
-#EXTINF:-1,EI PLUS 3 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39269
-#EXTINF:-1,EI PLUS 3 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/32163
-#EXTINF:-1,EI PLUS 4 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39270
-#EXTINF:-1,EI PLUS 4 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24835
-#EXTINF:-1,EI PLUS 5 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39271
-#EXTINF:-1,EI PLUS 6 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39272
-#EXTINF:-1,Esperanza TV HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39245
-#EXTINF:-1,ESPN 2 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11521
-#EXTINF:-1,ESPN 2 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39341
-#EXTINF:-1,ESPN 2 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39200
-#EXTINF:-1,ESPN 2 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6143
-#EXTINF:-1,ESPN 2 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39575
-#EXTINF:-1,ESPN 2 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7988
-#EXTINF:-1,ESPN 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33766
-#EXTINF:-1,ESPN BRASIL FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11557
-#EXTINF:-1,ESPN Brasil FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39342
-#EXTINF:-1,ESPN BRASIL HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20783
-#EXTINF:-1,ESPN BRASIL HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6124
-#EXTINF:-1,ESPN BRASIL SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20784
-#EXTINF:-1,ESPN BRASIL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4380
-#EXTINF:-1,ESPN EXTRA HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39206
-#EXTINF:-1,ESPN EXTRA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24788
-#EXTINF:-1,ESPN EXTRA SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39530
-#EXTINF:-1,ESPN FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11545
-#EXTINF:-1,ESPN FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39343
-#EXTINF:-1,ESPN HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20779
-#EXTINF:-1,ESPN HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6127
-#EXTINF:-1,ESPN SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20780
-#EXTINF:-1,ESPN SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4381
-#EXTINF:-1,EI PLUS HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39266
-#EXTINF:-1,EI PLUS HD³
-http://srv.tvprodigital.net:25461/alex123/alex123/39267
-#EXTINF:-1,EI PLUS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/32162
-#EXTINF:-1,ESPORTES 3 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30244
-#EXTINF:-1,Eu a Patroa e as Crianças 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34883
-#EXTINF:-1,FILM&ARTS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/11180
-#EXTINF:-1,FISH TV FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39425
-#EXTINF:-1,FISH TV HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20773
-#EXTINF:-1,FISH TV SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39531
-#EXTINF:-1,FISH TV SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4377
-#EXTINF:-1,FLA TV 
-http://srv.tvprodigital.net:25461/alex123/alex123/39526
-#EXTINF:-1,FOOD NETWORK FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13196
-#EXTINF:-1,Food Network FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39344
-#EXTINF:-1,FOOD NETWORK HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20756
-#EXTINF:-1,FOOD NETWORK HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7534
-#EXTINF:-1,FOOD NETWORK SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20757
-#EXTINF:-1,FOOD NETWORK SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6959
-#EXTINF:-1,Formiga Atómica 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34884
-#EXTINF:-1,FOX FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/9141
-#EXTINF:-1,FOX FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39345
-#EXTINF:-1,FOX HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20759
-#EXTINF:-1,FOX HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6122
-#EXTINF:-1,FOX LIFE FHD H264
-http://srv.tvprodigital.net:25461/alex123/alex123/25009
-#EXTINF:-1,FOX LIFE HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20761
-#EXTINF:-1,FOX LIFE HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6876
-#EXTINF:-1,FOX LIFE SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20762
-#EXTINF:-1,FOX LIFE SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4374
-#EXTINF:-1,Fox News FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39438
-#EXTINF:-1,Fox News HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39231
-#EXTINF:-1,Fox News SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39579
-#EXTINF:-1,Fox Premium 1 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39435
-#EXTINF:-1,FOX PREMIUM 1 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20763
-#EXTINF:-1,FOX PREMIUM 1 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10279
-#EXTINF:-1,Fox Premium 1 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39578
-#EXTINF:-1,FOX PREMIUM 2 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11529
-#EXTINF:-1,Fox Premium 2 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39437
-#EXTINF:-1,FOX PREMIUM 2 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20764
-#EXTINF:-1,FOX PREMIUM 2 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10278
-#EXTINF:-1,Fox Premium 2 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39577
-#EXTINF:-1,FOX SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20760
-#EXTINF:-1,FOX SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4375
-#EXTINF:-1,FOX SPORTS 2 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33763
-#EXTINF:-1,FOX SPORTS 2 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/8151
-#EXTINF:-1,Fox Sports 2 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39347
-#EXTINF:-1,FOX SPORTS 2 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20767
-#EXTINF:-1,FOX SPORTS 2 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6117
-#EXTINF:-1,FOX SPORTS 2 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20768
-#EXTINF:-1,FOX SPORTS 2 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4372
-#EXTINF:-1,FOX SPORTS 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33756
-#EXTINF:-1,FOX SPORTS FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11556
-#EXTINF:-1,Fox Sports FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39348
-#EXTINF:-1,FOX SPORTS HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20771
-#EXTINF:-1,FOX SPORTS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6118
-#EXTINF:-1,FOX SPORTS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20772
-#EXTINF:-1,FOX SPORTS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4373
-#EXTINF:-1,FUTURA SD*
-http://srv.tvprodigital.net:25461/alex123/alex123/20753
-#EXTINF:-1,FUTURA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10277
-#EXTINF:-1,FX FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13199
-#EXTINF:-1,FX FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39349
-#EXTINF:-1,FX HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20775
-#EXTINF:-1,FX HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6116
-#EXTINF:-1,FX SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20777
-#EXTINF:-1,FX SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4371
-#EXTINF:-1,GLOBO 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33749
-#EXTINF:-1,GLOBO BAHIA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7539
-#EXTINF:-1,Globo BRASILIA FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/34528
-#EXTINF:-1,GLOBO BRASILIA HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39217
-#EXTINF:-1,GLOBO BRASILIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10239
-#EXTINF:-1,GLOBO BRASILIA SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/22769
-#EXTINF:-1,GLOBO BRASILIA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7530
-#EXTINF:-1,Globo Centro America FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39400
-#EXTINF:-1,Globo Centro America HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39235
-#EXTINF:-1,Globo EPTV Campinas FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39401
-#EXTINF:-1,Globo EPTV Campinas HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39238
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39559
-#EXTINF:-1,GLOBO EPTV CAMPINAS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7932
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/22765
-#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/9471
-#EXTINF:-1,GLOBO EPTV RIBERAO PRETO SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33271
-#EXTINF:-1,GLOBO EPTV SAO CARLOS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/22766
-#EXTINF:-1,Globo EPTV Sul de Minas FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39444
-#EXTINF:-1,Globo EPTV Sul de Minas HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39248
-#EXTINF:-1,GLOBO GAZETA SUL ES  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33612
-#EXTINF:-1,GLOBO GAZETA SUL ES SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33611
-#EXTINF:-1,GLOBO GOIAS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/21985
-#EXTINF:-1,GLOBO INTER TV CABUGI SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39560
-#EXTINF:-1,Globo Inter TV Grande Minas FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39442
-#EXTINF:-1,Globo Inter TV Grande Minas HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39246
-#EXTINF:-1,GLOBO INTERNACIONAL
-http://srv.tvprodigital.net:25461/alex123/alex123/24928
-#EXTINF:-1,GLOBO INTERTV CABUGI SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/22763
-#EXTINF:-1,GLOBO MANAUS  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/34431
-#EXTINF:-1,GLOBO MG FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/34530
-#EXTINF:-1,GLOBO MINAS FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/31114
-#EXTINF:-1,GLOBO MINAS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/22761
-#EXTINF:-1,GLOBO MINAS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10276
-#EXTINF:-1,GLOBO NEWS FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/25010
-#EXTINF:-1,Globo News FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39350
-#EXTINF:-1,GLOBO NEWS HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/11043
-#EXTINF:-1,GLOBO NEWS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7442
-#EXTINF:-1,GLOBO NEWS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/11243
-#EXTINF:-1,GLOBO NEWS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4432
-#EXTINF:-1,GLOBO NORDESTE FHD H264
-http://srv.tvprodigital.net:25461/alex123/alex123/25011
-#EXTINF:-1,GLOBO NORDESTE HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39207
-#EXTINF:-1,GLOBO NORDESTE HD³
-http://srv.tvprodigital.net:25461/alex123/alex123/39218
-#EXTINF:-1,GLOBO NORDESTE HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33266
-#EXTINF:-1,Globo Nordeste SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39532
-#EXTINF:-1,GLOBO NSC FLORIANOPOLIS FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/32806
-#EXTINF:-1,GLOBO NSC TV Blumenau FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39445
-#EXTINF:-1,GLOBO TV SERGIPE HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24750
-#EXTINF:-1,TV Sergipe FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39453
-#EXTINF:-1,GLOBO NORDESTE SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7527
-#EXTINF:-1,Globo NSC Florianopolis HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39241
-#EXTINF:-1,Globo NSC Florianopolis SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39581
-#EXTINF:-1,GLOBO NSCTV SANTA CATARINA  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33294
-#EXTINF:-1,Globo Paraiba  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/34527
-#EXTINF:-1,GLOBO RBS FHD H264
-http://srv.tvprodigital.net:25461/alex123/alex123/31110
-#EXTINF:-1,GLOBO RBS POA  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33287
-#EXTINF:-1,GLOBO RBS PORTO ALEGRE SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39562
-#EXTINF:-1,GLOBO RBS TV POA FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39351
-#EXTINF:-1,GLOBO RBS TV POA SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39585
-#EXTINF:-1,GLOBO RBS TV POA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33265
-#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33264
-#EXTINF:-1,GLOBO REDE AMAZÔNICA MANAUS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39563
-#EXTINF:-1,Globo RJ FHD H264
-http://srv.tvprodigital.net:25461/alex123/alex123/34526
-#EXTINF:-1,Globo RJ FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39454
-#EXTINF:-1,GLOBO RJ HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/22756
-#EXTINF:-1,GLOBO RJ HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6113
-#EXTINF:-1,GLOBO RJ SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7547
-#EXTINF:-1,Globo RPC Paranaense FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39403
-#EXTINF:-1,Globo RPC Paranaense HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39239
-#EXTINF:-1,Globo RPC Paranaense SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39582
-#EXTINF:-1,GLOBO RPC TV CURITIBA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33258
-#EXTINF:-1,GLOBO SOROCABA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7684
-#EXTINF:-1,GLOBO SP FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39352
-#EXTINF:-1,GLOBO SP HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/22755
-#EXTINF:-1,GLOBO SP HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7529
-#EXTINF:-1,Globo SP SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39580
-#EXTINF:-1,GLOBO SP SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4431
-#EXTINF:-1,GLOBO TV ANHANGUERA FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/33286
-#EXTINF:-1,GLOBO TV ANHANGUERA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/22004
-#EXTINF:-1,Globo TV Anhanguera  SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39533
-#EXTINF:-1,Globo TV Bahia FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39405
-#EXTINF:-1,Globo TV Bahia HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39234
-#EXTINF:-1,GLOBO TV BAHIA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33261
-#EXTINF:-1,Globo TV Belem FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39440
-#EXTINF:-1,Globo TV Belem HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39233
-#EXTINF:-1,Globo TV Belem SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39583
-#EXTINF:-1,Globo TV Brasilia FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39452
-#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/22017
-#EXTINF:-1,GLOBO TV GAZETA ES FHD H264
-http://srv.tvprodigital.net:25461/alex123/alex123/20476
-#EXTINF:-1,GLOBO TV GAZETA ES HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24959
-#EXTINF:-1,GLOBO TV GAZETA ES SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24958
-#EXTINF:-1,GLOBO TV LIBERAL BELEM SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39565
-#EXTINF:-1,GLOBO TV MIRANTE COCAIS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/22744
-#EXTINF:-1,Globo TV Mirante FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39406
-#EXTINF:-1,Globo TV Mirante HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39242
-#EXTINF:-1,GLOBO TV MIRANTE MARANHAO HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33282
-#EXTINF:-1,Globo TV Morena FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39407
-#EXTINF:-1,Globo TV Morena HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39237
-#EXTINF:-1,GLOBO TV Morena Ponta Pora HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/22734
-#EXTINF:-1,Globo TV Morena SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39584
-#EXTINF:-1,GLOBO TV RIO SUL  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/34430
-#EXTINF:-1,GLOBO TV SANTA CRUZ SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10238
-#EXTINF:-1,GLOBO TV TEM BAURU SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/22738
-#EXTINF:-1,GLOBO TV TEM BAURU SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/9465
-#EXTINF:-1,GLOBO TV TEM SOROCABA SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/22737
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39566
-#EXTINF:-1,GLOBO TV TRIBUNA SANTOS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/22732
-#EXTINF:-1,GLOBO TV VANGUARDA SJ DOS CAMPOS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/22735
-#EXTINF:-1,GLOBO TV VANGUARDA SÃO JOSÉ DOS CAMPOS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39567
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39568
-#EXTINF:-1,Globo TV Verdes Mares HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39236
-#EXTINF:-1,Globo TV Verdes Mares SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39536
-#EXTINF:-1,GLOBO TV VERDES MARES SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/22733
-#EXTINF:-1,GLOBO VERDES MARES FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/32807
-#EXTINF:-1,GLOBO VERDES MARES HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20623
-#EXTINF:-1,GloboTV Anhanguera FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39404
-#EXTINF:-1,GloboTV Anhanguera HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39240
-#EXTINF:-1,Gloob FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39421
-#EXTINF:-1,GLOOB HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20749
-#EXTINF:-1,GLOOB HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7526
-#EXTINF:-1,GLOOB SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20750
-#EXTINF:-1,GLOOB SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4369
-#EXTINF:-1,GLOOBINHO FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/25013
-#EXTINF:-1,GLOOBINHO  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39201
-#EXTINF:-1,GLOOBINHO SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20701
-#EXTINF:-1,GLOOBINHO SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10270
-#EXTINF:-1,GNT FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/31123
-#EXTINF:-1,GNT FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39416
-#EXTINF:-1,GNT HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20752
-#EXTINF:-1,GNT HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6956
-#EXTINF:-1,GNT SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20751
-#EXTINF:-1,GNT SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4368
-#EXTINF:-1,H2 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13187
-#EXTINF:-1,H2 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39353
-#EXTINF:-1,H2 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20698
-#EXTINF:-1,H2 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6111
-#EXTINF:-1,H2 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20700
-#EXTINF:-1,H2 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4367
-#EXTINF:-1,HBO 2 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11567
-#EXTINF:-1,HBO 2 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39354
-#EXTINF:-1,HBO 2 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20690
-#EXTINF:-1,HBO 2 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6110
-#EXTINF:-1,HBO 2 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20692
-#EXTINF:-1,HBO 2 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4365
-#EXTINF:-1,HBO FAMILY FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11568
-#EXTINF:-1,HBO Family FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39355
-#EXTINF:-1,HBO FAMILY HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20687
-#EXTINF:-1,HBO FAMILY HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6109
-#EXTINF:-1,HBO FAMILY SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20688
-#EXTINF:-1,HBO FAMILY SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4364
-#EXTINF:-1,HBO FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11566
-#EXTINF:-1,HBO FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39356
-#EXTINF:-1,HBO HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20694
-#EXTINF:-1,HBO HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6108
-#EXTINF:-1,HBO MUNDI HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20662
-#EXTINF:-1,HBO MUNDI HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10266
-#EXTINF:-1,HBO MUNDI SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20664
-#EXTINF:-1,HBO MUNDI SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4358
-#EXTINF:-1,HBO PLUS FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13190
-#EXTINF:-1,HBO Plus FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39357
-#EXTINF:-1,HBO PLUS HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20920
-#EXTINF:-1,HBO PLUS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6106
-#EXTINF:-1,HBO PLUS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20684
-#EXTINF:-1,HBO PLUS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4363
-#EXTINF:-1,HBO POP FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/25015
-#EXTINF:-1,HBO POP FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39363
-#EXTINF:-1,HBO POP HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20659
-#EXTINF:-1,HBO POP HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10265
-#EXTINF:-1,HBO POP SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20660
-#EXTINF:-1,HBO POP SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4355
-#EXTINF:-1,HBO SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20696
-#EXTINF:-1,HBO SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4366
-#EXTINF:-1,HBO SIGNATURE FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11570
-#EXTINF:-1,HBO Signature FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39358
-#EXTINF:-1,HBO SIGNATURE HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20678
-#EXTINF:-1,HBO SIGNATURE HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6105
-#EXTINF:-1,HBO SIGNATURE SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20679
-#EXTINF:-1,HBO SIGNATURE SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4361
-#EXTINF:-1,HBO XTREME FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39362
-#EXTINF:-1,HBO XTREME HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20657
-#EXTINF:-1,HBO XTREME HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7850
-#EXTINF:-1,HBO XTREME SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20658
-#EXTINF:-1,HBO XTREME SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4357
-#EXTINF:-1,HBO XTREMEFHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/25014
-#EXTINF:-1,HGTV FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13208
-#EXTINF:-1,HGTV FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39332
-#EXTINF:-1,HGTV HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20820
-#EXTINF:-1,HGTV HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7862
-#EXTINF:-1,HGTV SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39571
-#EXTINF:-1,HGTV SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10236
-#EXTINF:-1,HISTORY CHANNEL FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13211
-#EXTINF:-1,HISTORY CHANNEL FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39394
-#EXTINF:-1,HISTORY CHANNEL HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20468
-#EXTINF:-1,HISTORY CHANNEL HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6104
-#EXTINF:-1,HISTORY CHANNEL SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20469
-#EXTINF:-1,HISTORY CHANNEL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4314
-#EXTINF:-1,i SAT FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39429
-#EXTINF:-1,I SAT  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39229
-#EXTINF:-1,I SAT SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39537
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/9143
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20672
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6869
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20673
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4360
-#EXTINF:-1,ID - INVESTIGACAO DISCOVERY²
-http://srv.tvprodigital.net:25461/alex123/alex123/39216
-#EXTINF:-1,ID Investigation Discovery FHD  H265
-http://srv.tvprodigital.net:25461/alex123/alex123/30696
-#EXTINF:-1,IDEAL TV SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20674
-#EXTINF:-1,IMPD TV SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/25915
-#EXTINF:-1,Inter TV dos Vales FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39449
-#EXTINF:-1,InterTv Cabo Frio  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/34531
-#EXTINF:-1,LIFETIME FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11540
-#EXTINF:-1,Lifetime FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39360
-#EXTINF:-1,LIFETIME HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20668
-#EXTINF:-1,LIFETIME HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7525
-#EXTINF:-1,LIFETIME SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20670
-#EXTINF:-1,LIFETIME SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7876
-#EXTINF:-1,Mais Globosat FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39411
-#EXTINF:-1,MAIS GLOBOSAT HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20665
-#EXTINF:-1,MAIS GLOBOSAT HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/9262
-#EXTINF:-1,MAIS GLOBOSAT SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20666
-#EXTINF:-1,MAIS GLOBOSAT SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6953
-#EXTINF:-1,MAX FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13189
-#EXTINF:-1,MAX FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39361
-#EXTINF:-1,MEGAPIX 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33762
-#EXTINF:-1,MEGAPIX FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/8146
-#EXTINF:-1,Megapix FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39364
-#EXTINF:-1,MEGAPIX HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20653
-#EXTINF:-1,MEGAPIX HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6101
-#EXTINF:-1,MEGAPIX SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20654
-#EXTINF:-1,MEGAPIX SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4354
-#EXTINF:-1,MTV FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11573
-#EXTINF:-1,MTV FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39365
-#EXTINF:-1,MTV HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20644
-#EXTINF:-1,MTV HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7524
-#EXTINF:-1,MTV SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20646
-#EXTINF:-1,MTV SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4353
-#EXTINF:-1,MULTISHOW 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33760
-#EXTINF:-1,MULTISHOW FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13201
-#EXTINF:-1,Multishow FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39366
-#EXTINF:-1,MULTISHOW HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20648
-#EXTINF:-1,MULTISHOW HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6867
-#EXTINF:-1,MULTISHOW SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20650
-#EXTINF:-1,MULTISHOW SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4352
-#EXTINF:-1,Music Box Brasil FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39427
-#EXTINF:-1,Music Box Brasil HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39228
-#EXTINF:-1,MUSIC BOX BRASIL SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20655
-#EXTINF:-1,MUSIC BOX BRASIL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7848
-#EXTINF:-1,Natgeo FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39367
-#EXTINF:-1,NATGEO KIDS FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13198
-#EXTINF:-1,Natgeo Kids FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39368
-#EXTINF:-1,NATGEO KIDS HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20632
-#EXTINF:-1,NATGEO KIDS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10261
-#EXTINF:-1,NATGEO KIDS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20642
-#EXTINF:-1,NATGEO KIDS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4350
-#EXTINF:-1,NATGEO WILD FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11528
-#EXTINF:-1,Natgeo Wild FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39369
-#EXTINF:-1,NATGEO WILD HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20640
-#EXTINF:-1,NATGEO WILD HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6099
-#EXTINF:-1,NATGEO WILD SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20641
-#EXTINF:-1,NATGEO WILD SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4349
-#EXTINF:-1,NATIONAL GEOGRAPHY FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13188
-#EXTINF:-1,NATIONAL GEOGRAPHY HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20629
-#EXTINF:-1,NATIONAL GEOGRAPHY HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6098
-#EXTINF:-1,NATIONAL GEOGRAPHY SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20630
-#EXTINF:-1,NATIONAL GEOGRAPHY SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4348
-#EXTINF:-1,NHK HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4347
-#EXTINF:-1,NHK SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6949
-#EXTINF:-1,Nick FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39370
-#EXTINF:-1,NICK JR FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11527
-#EXTINF:-1,Nick JR FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39371
-#EXTINF:-1,NICK JR HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20631
-#EXTINF:-1,NICK JR HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10260
-#EXTINF:-1,NICK JR SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20637
-#EXTINF:-1,NICK JR SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4346
-#EXTINF:-1,NICKELODEON FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11526
-#EXTINF:-1,NICKELODEON HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20635
-#EXTINF:-1,NICKELODEON HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7537
-#EXTINF:-1,NICKELODEON SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20636
-#EXTINF:-1,NICKELODEON SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4345
-#EXTINF:-1,NOVO TEMPO SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6948
-#EXTINF:-1,OFF FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/9152
-#EXTINF:-1,OFF FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39410
-#EXTINF:-1,OFF HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20622
-#EXTINF:-1,OFF HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6947
-#EXTINF:-1,OFF SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39539
-#EXTINF:-1,OFF SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4344
-#EXTINF:-1,Paramount Channel FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39372
-#EXTINF:-1,PARAMOUNT FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13185
-#EXTINF:-1,PARAMOUNT HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20619
-#EXTINF:-1,PARAMOUNT HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6945
-#EXTINF:-1,PARAMOUNT SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20621
-#EXTINF:-1,PARAMOUNT SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6946
-#EXTINF:-1,PLAY KIDS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/32164
-#EXTINF:-1,Play TV FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39414
-#EXTINF:-1,PLAY TV SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39540
-#EXTINF:-1,PLAY TV SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20617
-#EXTINF:-1,PlayTV  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39222
-#EXTINF:-1,POLISHOP TV SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4342
-#EXTINF:-1,PREMIERE 2 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/8149
-#EXTINF:-1,Premiere 2 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39373
-#EXTINF:-1,PREMIERE 2 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20615
-#EXTINF:-1,PREMIERE 2 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6093
-#EXTINF:-1,PREMIERE 2 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4341
-#EXTINF:-1,PREMIERE 3 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/9230
-#EXTINF:-1,Premiere 3 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39374
-#EXTINF:-1,PREMIERE 3 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20612
-#EXTINF:-1,PREMIERE 3 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6092
-#EXTINF:-1,Premiere 3 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39541
-#EXTINF:-1,PREMIERE 3 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4340
-#EXTINF:-1,PREMIERE 4 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11552
-#EXTINF:-1,Premiere 4 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39375
-#EXTINF:-1,PREMIERE 4 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20609
-#EXTINF:-1,PREMIERE 4 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6091
-#EXTINF:-1,PREMIERE 4 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20593
-#EXTINF:-1,PREMIERE 4 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4339
-#EXTINF:-1,PREMIERE 5 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/9231
-#EXTINF:-1,Premiere 5 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39376
-#EXTINF:-1,PREMIERE 5 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20606
-#EXTINF:-1,PREMIERE 5 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6090
-#EXTINF:-1,Premiere 5 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39542
-#EXTINF:-1,PREMIERE 5 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4338
-#EXTINF:-1,PREMIERE 6 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11550
-#EXTINF:-1,Premiere 6 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39377
-#EXTINF:-1,PREMIERE 6 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20603
-#EXTINF:-1,PREMIERE 6 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10259
-#EXTINF:-1,Premiere 6 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39543
-#EXTINF:-1,PREMIERE 6 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4337
-#EXTINF:-1,PREMIERE 7 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11549
-#EXTINF:-1,Premiere 7 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39378
-#EXTINF:-1,PREMIERE 7 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20601
-#EXTINF:-1,PREMIERE 7 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10258
-#EXTINF:-1,PREMIERE 7 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20590
-#EXTINF:-1,PREMIERE 7 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4336
-#EXTINF:-1,PREMIERE 8 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20589
-#EXTINF:-1,PREMIERE 9 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20588
-#EXTINF:-1,PREMIERE CLUBES  4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33753
-#EXTINF:-1,PREMIERE CLUBES FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/9144
-#EXTINF:-1,Premiere Clubes FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39379
-#EXTINF:-1,PREMIERE CLUBES HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20599
-#EXTINF:-1,PREMIERE CLUBES HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6089
-#EXTINF:-1,PREMIERE CLUBES SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20596
-#EXTINF:-1,PREMIERE CLUBES SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4333
-#EXTINF:-1,Prime Box Brasil FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39419
-#EXTINF:-1,Prime Box Brasil  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39224
-#EXTINF:-1,PRIME BOX BRASIL SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20587
-#EXTINF:-1,PRIME BOX BRAZIL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4332
-#EXTINF:-1,Radio Bahia
-http://srv.tvprodigital.net:25461/alex123/alex123/6188
-#EXTINF:-1,Radio Disney
-http://srv.tvprodigital.net:25461/alex123/alex123/6838
-#EXTINF:-1,Radio Energia 97 FM 97.7 SP
-http://srv.tvprodigital.net:25461/alex123/alex123/10936
-#EXTINF:-1,Radio Globo SP
-http://srv.tvprodigital.net:25461/alex123/alex123/5828
-#EXTINF:-1,Radio Jovem Pan
-http://srv.tvprodigital.net:25461/alex123/alex123/6187
-#EXTINF:-1,Radio Mega Hits
-http://srv.tvprodigital.net:25461/alex123/alex123/6846
-#EXTINF:-1,Radio Metropolitana
-http://srv.tvprodigital.net:25461/alex123/alex123/10933
-#EXTINF:-1,Radio Mix FM
-http://srv.tvprodigital.net:25461/alex123/alex123/5826
-#EXTINF:-1,Radio Transamérica Pop 100.1 FM SP
-http://srv.tvprodigital.net:25461/alex123/alex123/10937
-#EXTINF:-1,RECORD 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33750
-#EXTINF:-1,RECORD BAHIA HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39262
-#EXTINF:-1,RECORD BRASILIA HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39261
-#EXTINF:-1,RECORD BRASILIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33275
-#EXTINF:-1,RECORD CAMPINAS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33277
-#EXTINF:-1,RECORD ES SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6817
-#EXTINF:-1,RECORD FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13183
-#EXTINF:-1,Record  FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39380
-#EXTINF:-1,RECORD GOIANIA FHD  H265
-http://srv.tvprodigital.net:25461/alex123/alex123/30437
-#EXTINF:-1,RECORD HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20571
-#EXTINF:-1,RECORD HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7836
-#EXTINF:-1,RECORD MARANHAO  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/34429
-#EXTINF:-1,RECORD MINAS HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39263
-#EXTINF:-1,RECORD MINAS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30435
-#EXTINF:-1,RECORD NEWS ES FHD H264
-http://srv.tvprodigital.net:25461/alex123/alex123/20557
-#EXTINF:-1,RECORD NEWS ES HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10255
-#EXTINF:-1,RECORD NEWS ES SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6941
-#EXTINF:-1,Record News FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39441
-#EXTINF:-1,RECORD NEWS  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39208
-#EXTINF:-1,RECORD NEWS Santa Catarina HD¹ (MANUTENCAO)
-http://srv.tvprodigital.net:25461/alex123/alex123/24923
-#EXTINF:-1,RECORD NEWS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39544
-#EXTINF:-1,RECORD NEWS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30707
-#EXTINF:-1,RECORD PARANA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/18148
-#EXTINF:-1,RECORD RIO HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/25543
-#EXTINF:-1,RECORD RJ HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39264
-#EXTINF:-1,RECORD RS HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39265
-#EXTINF:-1,RECORD RS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/25017
-#EXTINF:-1,RECORD SANTA CATARINA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/18153
-#EXTINF:-1,RECORD SAO JOSE DO RIO PRETO HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30432
-#EXTINF:-1,RECORD SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4423
-#EXTINF:-1,Record SP FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/34529
-#EXTINF:-1,RECORD SP HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/18168
-#EXTINF:-1,RECORD TV ATALAIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24751
-#EXTINF:-1,RECORD TV BELEM HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30426
-#EXTINF:-1,RECORD TV GOIANIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30708
-#EXTINF:-1,RECORD TV GOIAS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/18151
-#EXTINF:-1,RECORD TV LITORAL SANTOS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30423
-#EXTINF:-1,REDE BRASIL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4421
-#EXTINF:-1,REDE FAMILIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/32579
-#EXTINF:-1,Rede Genisis FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39447
-#EXTINF:-1,REDE GOSPEL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/25975
-#EXTINF:-1,Rede Super FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39446
-#EXTINF:-1,REDE TV 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33751
-#EXTINF:-1,Rede TV FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39428
-#EXTINF:-1,REDE TV HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20574
-#EXTINF:-1,REDE TV HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6940
-#EXTINF:-1,REDE TV SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20575
-#EXTINF:-1,REDE TV SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4420
-#EXTINF:-1,REDE VIDA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6939
-#EXTINF:-1,RPC PR HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20483
-#EXTINF:-1,Rádio Jornal 91.3 FM
-http://srv.tvprodigital.net:25461/alex123/alex123/31665
-#EXTINF:-1,SBT 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33757
-#EXTINF:-1,TV APERIPER  ARACAJU HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24753
-#EXTINF:-1,SBT BRASILIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33276
-#EXTINF:-1,SBT FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39431
-#EXTINF:-1,SBT HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20554
-#EXTINF:-1,SBT HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6889
-#EXTINF:-1,SBT PARANA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24925
-#EXTINF:-1,SBT RJ HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/25544
-#EXTINF:-1,SBT RS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/25303
-#EXTINF:-1,SBT SANTA CATARINA  HD¹ (MANUTENCAO)
-http://srv.tvprodigital.net:25461/alex123/alex123/33293
-#EXTINF:-1,SBT SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20555
-#EXTINF:-1,SBT SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4331
-#EXTINF:-1,SBT SERRA DOURADA FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/33284
-#EXTINF:-1,SBT Serra Dourada  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33768
-#EXTINF:-1,SPACE 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33767
-#EXTINF:-1,SPACE FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13197
-#EXTINF:-1,SPACE FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39382
-#EXTINF:-1,SPACE HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20532
-#EXTINF:-1,SPACE HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6085
-#EXTINF:-1,SPACE SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39545
-#EXTINF:-1,SPACE SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4328
-#EXTINF:-1,SPORTV 2 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11539
-#EXTINF:-1,SporTV 2 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39383
-#EXTINF:-1,SPORTV 2 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20540
-#EXTINF:-1,SPORTV 2 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6084
-#EXTINF:-1,SPORTV 2 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20541
-#EXTINF:-1,SPORTV 2 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4326
-#EXTINF:-1,SPORTV 3 FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11538
-#EXTINF:-1,SporTV 3 FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39384
-#EXTINF:-1,SPORTV 3 HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20536
-#EXTINF:-1,SPORTV 3 HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6083
-#EXTINF:-1,SPORTV 3 SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20537
-#EXTINF:-1,SPORTV 3 SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4325
-#EXTINF:-1,SPORTV 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33759
-#EXTINF:-1,SPORTV FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11563
-#EXTINF:-1,SporTV FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39385
-#EXTINF:-1,SPORTV HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/6082
-#EXTINF:-1,SPORTV HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20544
-#EXTINF:-1,SPORTV SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20545
-#EXTINF:-1,SPORTV SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4327
-#EXTINF:-1,STUDIO UNIVERSAL FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13194
-#EXTINF:-1,Studio Universal FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39386
-#EXTINF:-1,STUDIO UNIVERSAL HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20546
-#EXTINF:-1,STUDIO UNIVERSAL HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7874
-#EXTINF:-1,STUDIO UNIVERSAL SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20547
-#EXTINF:-1,STUDIO UNIVERSAL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4324
-#EXTINF:-1,SYFY FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13195
-#EXTINF:-1,SYFY FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39387
-#EXTINF:-1,SYFY HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20550
-#EXTINF:-1,SYFY HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7795
-#EXTINF:-1,SYFY SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20551
-#EXTINF:-1,SYFY SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4323
-#EXTINF:-1,TBS FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39418
-#EXTINF:-1,TBS HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20521
-#EXTINF:-1,TBS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/7873
-#EXTINF:-1,TBS SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20522
-#EXTINF:-1,TBS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4322
-#EXTINF:-1,TC ACTION FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39388
-#EXTINF:-1,TC Cult FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39389
-#EXTINF:-1,TC Fun FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39390
-#EXTINF:-1,TC Pipoca FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39391
-#EXTINF:-1,TC Premium FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39392
-#EXTINF:-1,TC Touch FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39393
-#EXTINF:-1,TCM FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39413
-#EXTINF:-1,TCM  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39209
-#EXTINF:-1,TCM SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20496
-#EXTINF:-1,TCM SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4321
-#EXTINF:-1,TELECINE ACTION FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/8141
-#EXTINF:-1,TELECINE ACTION HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20517
-#EXTINF:-1,TELECINE ACTION HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6080
-#EXTINF:-1,TELECINE ACTION SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20518
-#EXTINF:-1,TELECINE ACTION SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4320
-#EXTINF:-1,TELECINE CULT FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/8143
-#EXTINF:-1,TELECINE CULT HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20513
-#EXTINF:-1,TELECINE CULT HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10247
-#EXTINF:-1,TELECINE CULT SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20514
-#EXTINF:-1,TELECINE CULT SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4319
-#EXTINF:-1,TELECINE FUN FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11561
-#EXTINF:-1,TELECINE FUN HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20509
-#EXTINF:-1,TELECINE FUN HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6079
-#EXTINF:-1,TELECINE FUN SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20510
-#EXTINF:-1,TELECINE FUN SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4318
-#EXTINF:-1,TELECINE PIPOCA FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/8144
-#EXTINF:-1,TELECINE PIPOCA HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20505
-#EXTINF:-1,TELECINE PIPOCA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6078
-#EXTINF:-1,TELECINE PIPOCA SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39546
-#EXTINF:-1,TELECINE PIPOCA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4317
-#EXTINF:-1,TELECINE PREMIUM FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/8140
-#EXTINF:-1,TELECINE PREMIUM HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20501
-#EXTINF:-1,TELECINE PREMIUM HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6077
-#EXTINF:-1,TELECINE PREMIUM SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39547
-#EXTINF:-1,TELECINE PREMIUM SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4316
-#EXTINF:-1,TELECINE TOUCH FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/25016
-#EXTINF:-1,TELECINE TOUCH HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20497
-#EXTINF:-1,TELECINE TOUCH HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6076
-#EXTINF:-1,TELECINE TOUCH SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39548
-#EXTINF:-1,TELECINE TOUCH SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4315
-#EXTINF:-1,TERRA VIVA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6936
-#EXTINF:-1,TLC FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39415
-#EXTINF:-1,TLC HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39210
-#EXTINF:-1,TLC HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24786
-#EXTINF:-1,TLC SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39550
-#EXTINF:-1,TLC SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4313
-#EXTINF:-1,TNT 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33755
-#EXTINF:-1,TNT FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13181
-#EXTINF:-1,TNT FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39395
-#EXTINF:-1,TNT HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20493
-#EXTINF:-1,TNT HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6074
-#EXTINF:-1,TNT SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39552
-#EXTINF:-1,TNT SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4312
-#EXTINF:-1,TNT SERIES 4K
-http://srv.tvprodigital.net:25461/alex123/alex123/33765
-#EXTINF:-1,TNT SERIES FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13186
-#EXTINF:-1,TNT SERIES FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39396
-#EXTINF:-1,TNT SERIES HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20489
-#EXTINF:-1,TNT SERIES HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6073
-#EXTINF:-1,TNT SERIES SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39551
-#EXTINF:-1,TNT SERIES SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4311
-#EXTINF:-1,Tooncast FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39423
-#EXTINF:-1,TOONCAST HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20485
-#EXTINF:-1,TOONCAST SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20486
-#EXTINF:-1,TOONCAST SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4310
-#EXTINF:-1,TruTV FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39426
-#EXTINF:-1,TRUTV  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39227
-#EXTINF:-1,TruTV SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39576
-#EXTINF:-1,TRUTV SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6935
-#EXTINF:-1,TV ALTEROSA SBT DIVINOPOLIS MG SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30433
-#EXTINF:-1,TV ALTEROSA SBT MINAS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30434
-#EXTINF:-1,TV ANHANGUERA GOIANIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30439
-#EXTINF:-1,TV APARECIDA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4438
-#EXTINF:-1,TV ARATU SBT BAHIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30428
-#EXTINF:-1,TV BRASIL SD*
-http://srv.tvprodigital.net:25461/alex123/alex123/20482
-#EXTINF:-1,TV CABRALIA RECORD BAHIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30429
-#EXTINF:-1,TV CAMARA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10245
-#EXTINF:-1,TV CIDADE OESTE SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20484
-#EXTINF:-1,TV CLUBE  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/34641
-#EXTINF:-1,TV CULTURA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4412
-#EXTINF:-1,Tv Diario FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39443
-#EXTINF:-1,TV DIARIO HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39247
-#EXTINF:-1,TV DIARIO  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/34642
-#EXTINF:-1,TV ESCOLA SD*
-http://srv.tvprodigital.net:25461/alex123/alex123/20477
-#EXTINF:-1,TV EVANGELIZAR SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6206
-#EXTINF:-1,TV Gazeta Alagoas FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39450
-#EXTINF:-1,TV Gazeta FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39451
-#EXTINF:-1,TV GAZETA SP HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30425
-#EXTINF:-1,TV GLOBO RPC CURITIBA SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/7866
-#EXTINF:-1,TV JUSTICA SD*
-http://srv.tvprodigital.net:25461/alex123/alex123/20475
-#EXTINF:-1,TV LIBERAL BELEM SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33256
-#EXTINF:-1,TV Liberal  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/34640
-#EXTINF:-1,TV PARANAIBA RECORD UBERLANDIA MG HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30424
-#EXTINF:-1,TV RA TIM BUM FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39422
-#EXTINF:-1,TV RA TIM BUM HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39212
-#EXTINF:-1,TV RA TIM BUM HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/24787
-#EXTINF:-1,TV RA TIM BUM  SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39553
-#EXTINF:-1,TV RA TIM BUM SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6933
-#EXTINF:-1,TV SANTA CRUZ GLOBO BAHIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30431
-#EXTINF:-1,TV SENADO SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10246
-#EXTINF:-1,TV SUBAE GLOBO BAHIA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/30430
-#EXTINF:-1,TV TEM BAURU SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33255
-#EXTINF:-1,TV TEM SOROCABA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33254
-#EXTINF:-1,TV TEM São José do Rio Preto SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4308
-#EXTINF:-1,TV TRIBUNA ES FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/33610
-#EXTINF:-1,TV TRIBUNA ES  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33609
-#EXTINF:-1,TV TRIBUNA ES SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33608
-#EXTINF:-1,TV VITORIA ES FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/33604
-#EXTINF:-1,TV VITORIA ES  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33603
-#EXTINF:-1,TV VITORIA ES SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/33602
-#EXTINF:-1,TV5  HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/39213
-#EXTINF:-1,TVIDEONESWS
-http://srv.tvprodigital.net:25461/alex123/alex123/34496
-#EXTINF:-1,UNIVERSAL CHANNEL FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/13192
-#EXTINF:-1,Universal Channel FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39397
-#EXTINF:-1,UNIVERSAL CHANNEL HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20464
-#EXTINF:-1,UNIVERSAL CHANNEL HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/5987
-#EXTINF:-1,Universal Channel SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39554
-#EXTINF:-1,UNIVERSAL CHANNEL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20465
-#EXTINF:-1,VH1 Mega Hits FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39398
-#EXTINF:-1,VH1 MEGA HITS HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39221
-#EXTINF:-1,VH1 MEGA HITS HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10361
-#EXTINF:-1,VH1 Mega Hits SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/39555
-#EXTINF:-1,VH1 MEGA HITS SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/10243
-#EXTINF:-1,Viva FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39412
-#EXTINF:-1,VIVA HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20460
-#EXTINF:-1,VIVA HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6848
-#EXTINF:-1,VIVA SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20461
-#EXTINF:-1,VIVA SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6928
-#EXTINF:-1,WARNER CHANNEL FHD H265
-http://srv.tvprodigital.net:25461/alex123/alex123/11525
-#EXTINF:-1,Warner Channel FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39399
-#EXTINF:-1,WARNER CHANNEL HD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20456
-#EXTINF:-1,WARNER CHANNEL HD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/6072
-#EXTINF:-1,WARNER CHANNEL SD²
-http://srv.tvprodigital.net:25461/alex123/alex123/20457
-#EXTINF:-1,WARNER CHANNEL SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/4307
-#EXTINF:-1,Wohoo FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39448
-#EXTINF:-1,WOOHOO SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20453
-#EXTINF:-1,YU-GI-OH 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34939
-#EXTINF:-1,YU-YU-Hakusho 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34940
-#EXTINF:-1,ZOOMOO SD¹
-http://srv.tvprodigital.net:25461/alex123/alex123/20450
-#EXTINF:-1,3 Palavrinhas 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34941
-#EXTINF:-1,A Feiticeira 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34948
-#EXTINF:-1,A Grande Familia 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34942
-#EXTINF:-1,ALADIN 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34864
-#EXTINF:-1,BEN 10 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34866
-#EXTINF:-1,Bita e os Animais 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34943
-#EXTINF:-1,BOB ESPONJA 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34867
-#EXTINF:-1,Breaking Bad 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34868
-#EXTINF:-1,CAO CORAGEM 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34869
-#EXTINF:-1,Caverna do Dragão 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34870
-#EXTINF:-1,Chapolin Colorado 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34871
-#EXTINF:-1,CHAVES 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34872
-#EXTINF:-1,CHAVES DESENHO 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34873
-#EXTINF:-1,Denis o Pimentinha 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34874
-#EXTINF:-1,Desenhos Biblicos 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34875
-#EXTINF:-1,Desenhos Disney 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34876
-#EXTINF:-1,Digimon 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34877
-#EXTINF:-1,As Meninas Superpoderosas 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34865
-#EXTINF:-1,Dois Homens e Meio 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34878
-#EXTINF:-1,Doug 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34879
-#EXTINF:-1,DRAGON BALL 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34880
-#EXTINF:-1,DRAGON BALL SUPER 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34881
-#EXTINF:-1,DRAGON BALL Z 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34882
-#EXTINF:-1,Galinha Pintadinha 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34885
-#EXTINF:-1,Guardiões da Galaxia 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34886
-#EXTINF:-1,He-Man 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34887
-#EXTINF:-1,Historias Disney 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34889
-#EXTINF:-1,HOMEM ARANHA 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34890
-#EXTINF:-1,Homem de Ferro 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34891
-#EXTINF:-1,HOMEMS DE PRETO 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34892
-#EXTINF:-1,Hércules 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34888
-#EXTINF:-1,Incrível Hulk 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34893
-#EXTINF:-1,Jack-Chan 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34894
-#EXTINF:-1,Jaspion 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34895
-#EXTINF:-1,JIRAYA O Incrível Ninja 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34896
-#EXTINF:-1,Kenan e Kel 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34897
-#EXTINF:-1,Liga da Justica 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34944
-#EXTINF:-1,Luluzinha 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34898
-#EXTINF:-1,Medabots 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34899
-#EXTINF:-1,MegaMan 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34900
-#EXTINF:-1,Mortal Kombat 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34901
-#EXTINF:-1,Mr.Ben 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34902
-#EXTINF:-1,NARUTO 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34903
-#EXTINF:-1,Naruto Shippuden DUB 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34904
-#EXTINF:-1,O Fantástico Mundo de Bobby 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34905
-#EXTINF:-1,O INSPETOR 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34906
-#EXTINF:-1,O MASKARA 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34907
-#EXTINF:-1,Os Anjinhos - Rugrats 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34908
-#EXTINF:-1,OS CAVALEIROS DO ZODIACO 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34909
-#EXTINF:-1,OS FLINTSTONES 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34910
-#EXTINF:-1,OS SIMPSONS 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34911
-#EXTINF:-1,Os Vingadores 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34912
-#EXTINF:-1,Papa-Léguas 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34913
-#EXTINF:-1,Peppa Pig 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34914
-#EXTINF:-1,PERNALONGA 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34915
-#EXTINF:-1,Phineas e Ferb 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34916
-#EXTINF:-1,PICA PAU 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34917
-#EXTINF:-1,Pink-e-Cerebro 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34918
-#EXTINF:-1,POKEMON 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34919
-#EXTINF:-1,Popeye O Marinheiro 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34920
-#EXTINF:-1,Rambo 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34921
-#EXTINF:-1,Scooby-Doo 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34922
-#EXTINF:-1,Shoptime FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39455
-#EXTINF:-1,Smallville 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34923
-#EXTINF:-1,Sobrenatural 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34924
-#EXTINF:-1,Sony FHD² H265
-http://srv.tvprodigital.net:25461/alex123/alex123/39381
-#EXTINF:-1,South Park 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34925
-#EXTINF:-1,Steven Universe 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34926
-#EXTINF:-1,Super Choque 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34947
-#EXTINF:-1,Superman 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34927
-#EXTINF:-1,TARTARUGAS NINJAS 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34928
-#EXTINF:-1,Thundercats 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34929
-#EXTINF:-1,TIMAO E PUMBA 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34930
-#EXTINF:-1,TODO MUNDO ODEIA O CHRIS 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34931
-#EXTINF:-1,Tom & Jerry 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34932
-#EXTINF:-1,Tres Espias Demais 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34933
-#EXTINF:-1,UM MALUCO NO PEDAÇO 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34934
-#EXTINF:-1,Uma Família da Pesada 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34935
-#EXTINF:-1,Ursinhos Carinhos 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34936
-#EXTINF:-1,VAI QUE COLA 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34945
-#EXTINF:-1,Vai Que Cola 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34946
-#EXTINF:-1,X-MAN 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34937
-#EXTINF:-1,Xena 24HRS
-http://srv.tvprodigital.net:25461/alex123/alex123/34938
+#EXTINF:-1,A&E HD
+http://maxptv.net:8080/rosa/rosa/236
+#EXTINF:-1,A&E SD
+http://maxptv.net:8080/rosa/rosa/235
+#EXTINF:-1,Amc HD
+http://maxptv.net:8080/rosa/rosa/512
+#EXTINF:-1,AMC SD
+http://maxptv.net:8080/rosa/rosa/233
+#EXTINF:-1,Animal Planet HD
+http://maxptv.net:8080/rosa/rosa/232
+#EXTINF:-1,Animal Planet SD
+http://maxptv.net:8080/rosa/rosa/231
+#EXTINF:-1,AXN HD
+http://maxptv.net:8080/rosa/rosa/535
+#EXTINF:-1,AXN SD
+http://maxptv.net:8080/rosa/rosa/227
+#EXTINF:-1,BabyTV HD
+http://maxptv.net:8080/rosa/rosa/226
+#EXTINF:-1,BabyTV SD
+http://maxptv.net:8080/rosa/rosa/225
+#EXTINF:-1,Band Campinas HD
+http://maxptv.net:8080/rosa/rosa/242
+#EXTINF:-1,Band Campinas SD
+http://maxptv.net:8080/rosa/rosa/241
+#EXTINF:-1,Band News HD
+http://maxptv.net:8080/rosa/rosa/224
+#EXTINF:-1,Band News SD
+http://maxptv.net:8080/rosa/rosa/223
+#EXTINF:-1,Band SP HD
+http://maxptv.net:8080/rosa/rosa/130
+#EXTINF:-1,Band SP SD
+http://maxptv.net:8080/rosa/rosa/129
+#EXTINF:-1,Band Sports HD
+http://maxptv.net:8080/rosa/rosa/221
+#EXTINF:-1,Band Sports SD
+http://maxptv.net:8080/rosa/rosa/220
+#EXTINF:-1,Big Brother Brasil 2020 HD
+http://maxptv.net:8080/rosa/rosa/230
+#EXTINF:-1,Big Brother Brasil 2020  SD
+http://maxptv.net:8080/rosa/rosa/229
+#EXTINF:-1,BIZ HD
+http://maxptv.net:8080/rosa/rosa/219
+#EXTINF:-1,BIZ SD
+http://maxptv.net:8080/rosa/rosa/218
+#EXTINF:-1,Boomerang HD
+http://maxptv.net:8080/rosa/rosa/217
+#EXTINF:-1,Boomerang SD
+http://maxptv.net:8080/rosa/rosa/216
+#EXTINF:-1,Canal Canção Nova HD
+http://maxptv.net:8080/rosa/rosa/215
+#EXTINF:-1,Canal Canal Canção SD
+http://maxptv.net:8080/rosa/rosa/214
+#EXTINF:-1,Canal Futura HD
+http://maxptv.net:8080/rosa/rosa/211
+#EXTINF:-1,Canal Futura SD
+http://maxptv.net:8080/rosa/rosa/210
+#EXTINF:-1,Canal Curta! HD
+http://maxptv.net:8080/rosa/rosa/213
+#EXTINF:-1,Canal Curta! SD
+http://maxptv.net:8080/rosa/rosa/212
+#EXTINF:-1,Canal HGTV HD
+http://maxptv.net:8080/rosa/rosa/193
+#EXTINF:-1,Canal HGTV SD
+http://maxptv.net:8080/rosa/rosa/192
+#EXTINF:-1,Canal OFF HD
+http://maxptv.net:8080/rosa/rosa/209
+#EXTINF:-1,Canal OFF SD
+http://maxptv.net:8080/rosa/rosa/208
+#EXTINF:-1,Canal Woohoo HD
+http://maxptv.net:8080/rosa/rosa/207
+#EXTINF:-1,Canal Woohoo SD
+http://maxptv.net:8080/rosa/rosa/206
+#EXTINF:-1,Cartoon Network HD
+http://maxptv.net:8080/rosa/rosa/524
+#EXTINF:-1,Cartoon Network SD
+http://maxptv.net:8080/rosa/rosa/204
+#EXTINF:-1,Comedy Central HD
+http://maxptv.net:8080/rosa/rosa/199
+#EXTINF:-1,Comedy Central SD
+http://maxptv.net:8080/rosa/rosa/198
+#EXTINF:-1,Combate HD
+http://maxptv.net:8080/rosa/rosa/201
+#EXTINF:-1,Combate SD
+http://maxptv.net:8080/rosa/rosa/200
+#EXTINF:-1,Cinemax HD
+http://maxptv.net:8080/rosa/rosa/203
+#EXTINF:-1,Cinemax SD
+http://maxptv.net:8080/rosa/rosa/202
+#EXTINF:-1,A&E  FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3036
+#EXTINF:-1,ANIMAL PLANET FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3037
+#EXTINF:-1,AXN  FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3038
+#EXTINF:-1,Black Kamen Rider 24H
+http://maxptv.net:8080/rosa/rosa/537
+#EXTINF:-1,Bob Esponja
+http://maxptv.net:8080/rosa/rosa/319
+#EXTINF:-1,Canal CSI 24H
+http://maxptv.net:8080/rosa/rosa/538
+#EXTINF:-1,CARTOON NETWORK FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3039
+#EXTINF:-1,Caverna do Dragao  24H
+http://maxptv.net:8080/rosa/rosa/539
+#EXTINF:-1,CDZ  Saga de Poseidon 24H
+http://maxptv.net:8080/rosa/rosa/540
+#EXTINF:-1,Chaves 24H
+http://maxptv.net:8080/rosa/rosa/547
+#EXTINF:-1,Cine Action 24H Ultra HD
+http://maxptv.net:8080/rosa/rosa/548
+#EXTINF:-1,Cine Aventura 24H Ultra HD
+http://maxptv.net:8080/rosa/rosa/549
+#EXTINF:-1,Cine Drama 24H Ultra HD
+http://maxptv.net:8080/rosa/rosa/550
+#EXTINF:-1,Cine Family 24H
+http://maxptv.net:8080/rosa/rosa/551
+#EXTINF:-1,Cine Faroeste 24H Ultra HD
+http://maxptv.net:8080/rosa/rosa/1478
+#EXTINF:-1,Cine Fiction 24H Ultra HD
+http://maxptv.net:8080/rosa/rosa/536
+#EXTINF:-1,Cine Fun 24H Ultra HD
+http://maxptv.net:8080/rosa/rosa/552
+#EXTINF:-1,Cine Guerra 24H Ultra HD
+http://maxptv.net:8080/rosa/rosa/1477
+#EXTINF:-1,Cine Horror 24H Ultra HD
+http://maxptv.net:8080/rosa/rosa/553
+#EXTINF:-1,CINE KIDS 24H ULTRA HD
+http://maxptv.net:8080/rosa/rosa/554
+#EXTINF:-1,CINE Nacionais 24H
+http://maxptv.net:8080/rosa/rosa/555
+#EXTINF:-1,Como eu Conheci a Sua Mae  24H
+http://maxptv.net:8080/rosa/rosa/567
+#EXTINF:-1,Cultura HD
+http://maxptv.net:8080/rosa/rosa/197
+#EXTINF:-1,CULTURA HD FHD
+http://maxptv.net:8080/rosa/rosa/3040
+#EXTINF:-1,Cultura SD
+http://maxptv.net:8080/rosa/rosa/196
+#EXTINF:-1,Cybercop 24H
+http://maxptv.net:8080/rosa/rosa/1479
+#EXTINF:-1,DISCORVERY CIVILIZATION FULL HD
+http://maxptv.net:8080/rosa/rosa/3044
+#EXTINF:-1,DISCORVERY KIDS FULL HD
+http://maxptv.net:8080/rosa/rosa/3041
+#EXTINF:-1,DISCORVERY THEATER FULL HD
+http://maxptv.net:8080/rosa/rosa/3042
+#EXTINF:-1,Discovery Channel HD
+http://maxptv.net:8080/rosa/rosa/195
+#EXTINF:-1,Discovery Channel SD
+http://maxptv.net:8080/rosa/rosa/194
+#EXTINF:-1,Discovery Home & Health HD
+http://maxptv.net:8080/rosa/rosa/191
+#EXTINF:-1,Discovery Home & Health SD
+http://maxptv.net:8080/rosa/rosa/190
+#EXTINF:-1,Discovery Kids HD
+http://maxptv.net:8080/rosa/rosa/189
+#EXTINF:-1,Discovery Kids SD
+http://maxptv.net:8080/rosa/rosa/188
+#EXTINF:-1,Discovery Science HD
+http://maxptv.net:8080/rosa/rosa/187
+#EXTINF:-1,Discovery Science SD
+http://maxptv.net:8080/rosa/rosa/186
+#EXTINF:-1,Discovery Theater HD
+http://maxptv.net:8080/rosa/rosa/185
+#EXTINF:-1,Discovery Theater SD
+http://maxptv.net:8080/rosa/rosa/184
+#EXTINF:-1,DISCOVERY TURBO FULL HD
+http://maxptv.net:8080/rosa/rosa/3043
+#EXTINF:-1,Discovery Turbo HD
+http://maxptv.net:8080/rosa/rosa/183
+#EXTINF:-1,Discovery Turbo SD
+http://maxptv.net:8080/rosa/rosa/182
+#EXTINF:-1,Discovery World HD
+http://maxptv.net:8080/rosa/rosa/181
+#EXTINF:-1,Discovery World SD
+http://maxptv.net:8080/rosa/rosa/180
+#EXTINF:-1,Disney Channel  HD
+http://maxptv.net:8080/rosa/rosa/179
+#EXTINF:-1,DISNEY CHANNEL FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3045
+#EXTINF:-1,Disney Channel SD
+http://maxptv.net:8080/rosa/rosa/178
+#EXTINF:-1,Disney Junior HD
+http://maxptv.net:8080/rosa/rosa/177
+#EXTINF:-1,Disney Junior SD
+http://maxptv.net:8080/rosa/rosa/176
+#EXTINF:-1,Disney XD HD
+http://maxptv.net:8080/rosa/rosa/175
+#EXTINF:-1,Disney XD SD
+http://maxptv.net:8080/rosa/rosa/174
+#EXTINF:-1,DR. House 24HR
+http://maxptv.net:8080/rosa/rosa/568
+#EXTINF:-1,Dragoes  24H
+http://maxptv.net:8080/rosa/rosa/1480
+#EXTINF:-1,E! HD
+http://maxptv.net:8080/rosa/rosa/516
+#EXTINF:-1,E! SD
+http://maxptv.net:8080/rosa/rosa/172
+#EXTINF:-1,EPTV Campinas HD
+http://maxptv.net:8080/rosa/rosa/238
+#EXTINF:-1,EPTV Campinas HD 2
+http://maxptv.net:8080/rosa/rosa/246
+#EXTINF:-1,EPTV Campinas SD
+http://maxptv.net:8080/rosa/rosa/237
+#EXTINF:-1,Eptv FHD Ribeirao
+http://maxptv.net:8080/rosa/rosa/3073
+#EXTINF:-1,Espn  2 HD
+http://maxptv.net:8080/rosa/rosa/171
+#EXTINF:-1,Espn  2 SD 
+http://maxptv.net:8080/rosa/rosa/170
+#EXTINF:-1,ESPN BRASIL FULL  HD H265
+http://maxptv.net:8080/rosa/rosa/3047
+#EXTINF:-1,Espn Brasil HD
+http://maxptv.net:8080/rosa/rosa/169
+#EXTINF:-1,Espn Brasil SD
+http://maxptv.net:8080/rosa/rosa/168
+#EXTINF:-1,Espn Extra  SD
+http://maxptv.net:8080/rosa/rosa/164
+#EXTINF:-1,Espn Extra HD
+http://maxptv.net:8080/rosa/rosa/165
+#EXTINF:-1,Espn HD
+http://maxptv.net:8080/rosa/rosa/167
+#EXTINF:-1,Espn SD
+http://maxptv.net:8080/rosa/rosa/166
+#EXTINF:-1,Eu a Patroa e as Crianças
+http://maxptv.net:8080/rosa/rosa/321
+#EXTINF:-1,Familia da Pesada 24H
+http://maxptv.net:8080/rosa/rosa/1481
+#EXTINF:-1,Familia Dinossauro  24H
+http://maxptv.net:8080/rosa/rosa/569
+#EXTINF:-1,Film&Arts HD
+http://maxptv.net:8080/rosa/rosa/163
+#EXTINF:-1,Film&Arts SD
+http://maxptv.net:8080/rosa/rosa/162
+#EXTINF:-1,FISH TV HD
+http://maxptv.net:8080/rosa/rosa/525
+#EXTINF:-1,Fish TV SD
+http://maxptv.net:8080/rosa/rosa/161
+#EXTINF:-1,Food Network HD
+http://maxptv.net:8080/rosa/rosa/158
+#EXTINF:-1,Food Network SD
+http://maxptv.net:8080/rosa/rosa/159
+#EXTINF:-1,FOX ESPORTES 2 FULL HD  H265
+http://maxptv.net:8080/rosa/rosa/3048
+#EXTINF:-1,FOX ESPORTES FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3049
+#EXTINF:-1,FOX FULL HD h265
+http://maxptv.net:8080/rosa/rosa/3050
+#EXTINF:-1,FOX HD
+http://maxptv.net:8080/rosa/rosa/157
+#EXTINF:-1,FOX Life HD
+http://maxptv.net:8080/rosa/rosa/156
+#EXTINF:-1,FOX Life SD
+http://maxptv.net:8080/rosa/rosa/155
+#EXTINF:-1,Fox Premium 2 HD
+http://maxptv.net:8080/rosa/rosa/526
+#EXTINF:-1,Fox Premium 2 SD
+http://maxptv.net:8080/rosa/rosa/527
+#EXTINF:-1,Fox Premium HD
+http://maxptv.net:8080/rosa/rosa/528
+#EXTINF:-1,Fox Premium SD
+http://maxptv.net:8080/rosa/rosa/151
+#EXTINF:-1,FOX SD
+http://maxptv.net:8080/rosa/rosa/150
+#EXTINF:-1,Fox Sports 2 HD
+http://maxptv.net:8080/rosa/rosa/529
+#EXTINF:-1,Fox Sports 2 SD
+http://maxptv.net:8080/rosa/rosa/148
+#EXTINF:-1,Fox Sports HD
+http://maxptv.net:8080/rosa/rosa/147
+#EXTINF:-1,Fox Sports SD
+http://maxptv.net:8080/rosa/rosa/146
+#EXTINF:-1,FX HD
+http://maxptv.net:8080/rosa/rosa/145
+#EXTINF:-1,FX SD
+http://maxptv.net:8080/rosa/rosa/144
+#EXTINF:-1,Galinha Pintadinha 24H
+http://maxptv.net:8080/rosa/rosa/1476
+#EXTINF:-1,Globo Ribeirão HD
+http://maxptv.net:8080/rosa/rosa/985
+#EXTINF:-1,Globo Ribeirão SD
+http://maxptv.net:8080/rosa/rosa/986
+#EXTINF:-1,Globo SP HD
+http://maxptv.net:8080/rosa/rosa/72
+#EXTINF:-1,Globo SP SD
+http://maxptv.net:8080/rosa/rosa/71
+#EXTINF:-1,GloboNews HD
+http://maxptv.net:8080/rosa/rosa/143
+#EXTINF:-1,GloboNews SD
+http://maxptv.net:8080/rosa/rosa/142
+#EXTINF:-1,Gloob HD
+http://maxptv.net:8080/rosa/rosa/530
+#EXTINF:-1,Gloob SD
+http://maxptv.net:8080/rosa/rosa/140
+#EXTINF:-1,GNT HD
+http://maxptv.net:8080/rosa/rosa/139
+#EXTINF:-1,GNT SD
+http://maxptv.net:8080/rosa/rosa/138
+#EXTINF:-1,H2 HD
+http://maxptv.net:8080/rosa/rosa/137
+#EXTINF:-1,H2 SD
+http://maxptv.net:8080/rosa/rosa/523
+#EXTINF:-1,HBO 2 HD
+http://maxptv.net:8080/rosa/rosa/135
+#EXTINF:-1,HBO 2 SD
+http://maxptv.net:8080/rosa/rosa/134
+#EXTINF:-1,HBO Family HD
+http://maxptv.net:8080/rosa/rosa/133
+#EXTINF:-1,HBO Family SD
+http://maxptv.net:8080/rosa/rosa/132
+#EXTINF:-1,HBO HD
+http://maxptv.net:8080/rosa/rosa/131
+#EXTINF:-1,HBO Plus HD
+http://maxptv.net:8080/rosa/rosa/128
+#EXTINF:-1,HBO Plus SD
+http://maxptv.net:8080/rosa/rosa/127
+#EXTINF:-1,HBO SD
+http://maxptv.net:8080/rosa/rosa/126
+#EXTINF:-1,HBO Signature HD
+http://maxptv.net:8080/rosa/rosa/531
+#EXTINF:-1,HBO Signature SD
+http://maxptv.net:8080/rosa/rosa/124
+#EXTINF:-1,History Channel HD
+http://maxptv.net:8080/rosa/rosa/532
+#EXTINF:-1,History Channel SD
+http://maxptv.net:8080/rosa/rosa/122
+#EXTINF:-1,Homem-Aranha 24H
+http://maxptv.net:8080/rosa/rosa/566
+#EXTINF:-1,ID HD
+http://maxptv.net:8080/rosa/rosa/121
+#EXTINF:-1,ID SD
+http://maxptv.net:8080/rosa/rosa/120
+#EXTINF:-1,Jaspion 24H
+http://maxptv.net:8080/rosa/rosa/570
+#EXTINF:-1,Jiraya  O Incrivel Ninja 24H
+http://maxptv.net:8080/rosa/rosa/1475
+#EXTINF:-1,Larva 24H
+http://maxptv.net:8080/rosa/rosa/1474
+#EXTINF:-1,Lifetime HD
+http://maxptv.net:8080/rosa/rosa/522
+#EXTINF:-1,Lifetime SD
+http://maxptv.net:8080/rosa/rosa/118
+#EXTINF:-1,Lion Man 24H
+http://maxptv.net:8080/rosa/rosa/1473
+#EXTINF:-1,Looney Tunnes 24H
+http://maxptv.net:8080/rosa/rosa/565
+#EXTINF:-1,Mais Globosat HD
+http://maxptv.net:8080/rosa/rosa/117
+#EXTINF:-1,Mais Globosat SD
+http://maxptv.net:8080/rosa/rosa/116
+#EXTINF:-1,MARVEL & DC 24H
+http://maxptv.net:8080/rosa/rosa/545
+#EXTINF:-1,HBO Mundi HD
+http://maxptv.net:8080/rosa/rosa/521
+#EXTINF:-1,HBO Xtreme HD
+http://maxptv.net:8080/rosa/rosa/520
+#EXTINF:-1,HBO Xtreme SD
+http://maxptv.net:8080/rosa/rosa/113
+#EXTINF:-1,HBO Mundi SD
+http://maxptv.net:8080/rosa/rosa/112
+#EXTINF:-1,Max up full hd
+http://maxptv.net:8080/rosa/rosa/3074
+#EXTINF:-1,HBO Pop HD
+http://maxptv.net:8080/rosa/rosa/111
+#EXTINF:-1,HBO Pop SD
+http://maxptv.net:8080/rosa/rosa/110
+#EXTINF:-1,Megapix HD
+http://maxptv.net:8080/rosa/rosa/109
+#EXTINF:-1,Megapix SD
+http://maxptv.net:8080/rosa/rosa/108
+#EXTINF:-1,MR. Bean 24H
+http://maxptv.net:8080/rosa/rosa/546
+#EXTINF:-1,MTV HD
+http://maxptv.net:8080/rosa/rosa/519
+#EXTINF:-1,MTV SD
+http://maxptv.net:8080/rosa/rosa/106
+#EXTINF:-1,MULTISHOW HD
+http://maxptv.net:8080/rosa/rosa/105
+#EXTINF:-1,MULTISHOW SD
+http://maxptv.net:8080/rosa/rosa/104
+#EXTINF:-1,MULTSHOW FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3067
+#EXTINF:-1,Naruto 24H
+http://maxptv.net:8080/rosa/rosa/564
+#EXTINF:-1,Nat Geo Kids HD
+http://maxptv.net:8080/rosa/rosa/518
+#EXTINF:-1,Nat Geo Kids SD
+http://maxptv.net:8080/rosa/rosa/102
+#EXTINF:-1,Nat Geo Wild HD
+http://maxptv.net:8080/rosa/rosa/101
+#EXTINF:-1,Nat Geo Wild SD
+http://maxptv.net:8080/rosa/rosa/100
+#EXTINF:-1,NATIONAL GEOGRAPHIC FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3068
+#EXTINF:-1,National Geographic HD
+http://maxptv.net:8080/rosa/rosa/99
+#EXTINF:-1,National Geographic SD
+http://maxptv.net:8080/rosa/rosa/98
+#EXTINF:-1,NHK HD
+http://maxptv.net:8080/rosa/rosa/97
+#EXTINF:-1,NHK SD
+http://maxptv.net:8080/rosa/rosa/96
+#EXTINF:-1,NICK JR  FULL HD
+http://maxptv.net:8080/rosa/rosa/3072
+#EXTINF:-1,Nick Jr HD
+http://maxptv.net:8080/rosa/rosa/95
+#EXTINF:-1,Nick Jr SD
+http://maxptv.net:8080/rosa/rosa/94
+#EXTINF:-1,NICKELOAD FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3063
+#EXTINF:-1,Nickelodeon HD
+http://maxptv.net:8080/rosa/rosa/93
+#EXTINF:-1,Nickelodeon SD
+http://maxptv.net:8080/rosa/rosa/92
+#EXTINF:-1,Os Simpsons 24H
+http://maxptv.net:8080/rosa/rosa/563
+#EXTINF:-1,Os Vingadores 24H
+http://maxptv.net:8080/rosa/rosa/1482
+#EXTINF:-1,Paramount Channel HD
+http://maxptv.net:8080/rosa/rosa/91
+#EXTINF:-1,Paramount Channel SD
+http://maxptv.net:8080/rosa/rosa/90
+#EXTINF:-1,Peppa Pig 24H
+http://maxptv.net:8080/rosa/rosa/562
+#EXTINF:-1,Playboy HD
+http://maxptv.net:8080/rosa/rosa/88
+#EXTINF:-1,Playboy SD
+http://maxptv.net:8080/rosa/rosa/87
+#EXTINF:-1,POCOYO 24H
+http://maxptv.net:8080/rosa/rosa/561
+#EXTINF:-1,Pokemon 24H
+http://maxptv.net:8080/rosa/rosa/560
+#EXTINF:-1,Premiere 1 HD
+http://maxptv.net:8080/rosa/rosa/86
+#EXTINF:-1,Premiere 1 HD Alternativo
+http://maxptv.net:8080/rosa/rosa/1461
+#EXTINF:-1,Premiere 1 HD2
+http://maxptv.net:8080/rosa/rosa/247
+#EXTINF:-1,Premiere 1 SD
+http://maxptv.net:8080/rosa/rosa/85
+#EXTINF:-1,PREMIERE 2 FULL HD
+http://maxptv.net:8080/rosa/rosa/3064
+#EXTINF:-1,Premiere 2 HD
+http://maxptv.net:8080/rosa/rosa/84
+#EXTINF:-1,Premiere 2 HD Alternativo
+http://maxptv.net:8080/rosa/rosa/1462
+#EXTINF:-1,Premiere 2 SD
+http://maxptv.net:8080/rosa/rosa/83
+#EXTINF:-1,PREMIERE 3 FHD
+http://maxptv.net:8080/rosa/rosa/3065
+#EXTINF:-1,Premiere 3 HD
+http://maxptv.net:8080/rosa/rosa/82
+#EXTINF:-1,Premiere 3 HD Alternativo
+http://maxptv.net:8080/rosa/rosa/1463
+#EXTINF:-1,Premiere 3 SD
+http://maxptv.net:8080/rosa/rosa/81
+#EXTINF:-1,PREMIERE 4 FHD
+http://maxptv.net:8080/rosa/rosa/3066
+#EXTINF:-1,Premiere 4 HD
+http://maxptv.net:8080/rosa/rosa/80
+#EXTINF:-1,Premiere 4 HD Alternativo
+http://maxptv.net:8080/rosa/rosa/1464
+#EXTINF:-1,Premiere 4 SD
+http://maxptv.net:8080/rosa/rosa/79
+#EXTINF:-1,Premiere 5 HD
+http://maxptv.net:8080/rosa/rosa/78
+#EXTINF:-1,Premiere 5 HD Alternativo
+http://maxptv.net:8080/rosa/rosa/1465
+#EXTINF:-1,Premiere 5 SD
+http://maxptv.net:8080/rosa/rosa/77
+#EXTINF:-1,Premiere 6 HD
+http://maxptv.net:8080/rosa/rosa/76
+#EXTINF:-1,Premiere 6 HD Alternativo
+http://maxptv.net:8080/rosa/rosa/1466
+#EXTINF:-1,Premiere 6 SD
+http://maxptv.net:8080/rosa/rosa/75
+#EXTINF:-1,Premiere 7 HD
+http://maxptv.net:8080/rosa/rosa/74
+#EXTINF:-1,Premiere 7 HD Alternativo
+http://maxptv.net:8080/rosa/rosa/1467
+#EXTINF:-1,Premiere 7 SD
+http://maxptv.net:8080/rosa/rosa/73
+#EXTINF:-1,PREMIERE CLUBES FULL HD
+http://maxptv.net:8080/rosa/rosa/3062
+#EXTINF:-1,Record HD
+http://maxptv.net:8080/rosa/rosa/240
+#EXTINF:-1,Record HD 2
+http://maxptv.net:8080/rosa/rosa/68
+#EXTINF:-1,RECORD NEWS FULL HD
+http://maxptv.net:8080/rosa/rosa/3061
+#EXTINF:-1,Record News HD
+http://maxptv.net:8080/rosa/rosa/67
+#EXTINF:-1,Record News SD
+http://maxptv.net:8080/rosa/rosa/66
+#EXTINF:-1,Record SD
+http://maxptv.net:8080/rosa/rosa/239
+#EXTINF:-1,Record SP HD
+http://maxptv.net:8080/rosa/rosa/65
+#EXTINF:-1,Record SP SD
+http://maxptv.net:8080/rosa/rosa/64
+#EXTINF:-1,REDE TV FHD
+http://maxptv.net:8080/rosa/rosa/3071
+#EXTINF:-1,Rede Vida HD
+http://maxptv.net:8080/rosa/rosa/62
+#EXTINF:-1,Rede Vida SD
+http://maxptv.net:8080/rosa/rosa/63
+#EXTINF:-1,RedeTV HD
+http://maxptv.net:8080/rosa/rosa/61
+#EXTINF:-1,RedeTV SD
+http://maxptv.net:8080/rosa/rosa/60
+#EXTINF:-1,Rá -Tim Bum- HD
+http://maxptv.net:8080/rosa/rosa/70
+#EXTINF:-1,Rá- Tim- Bum SD
+http://maxptv.net:8080/rosa/rosa/69
+#EXTINF:-1,SBT FHD INTERIOR
+http://maxptv.net:8080/rosa/rosa/3060
+#EXTINF:-1,Sbt HD
+http://maxptv.net:8080/rosa/rosa/59
+#EXTINF:-1,Sbt SD
+http://maxptv.net:8080/rosa/rosa/58
+#EXTINF:-1,Sextreme HD
+http://maxptv.net:8080/rosa/rosa/57
+#EXTINF:-1,Sextreme SD
+http://maxptv.net:8080/rosa/rosa/56
+#EXTINF:-1,Sexy Hot HD
+http://maxptv.net:8080/rosa/rosa/55
+#EXTINF:-1,Sexy Hot SD
+http://maxptv.net:8080/rosa/rosa/54
+#EXTINF:-1,Show da Luna 24H
+http://maxptv.net:8080/rosa/rosa/559
+#EXTINF:-1,Sony HD
+http://maxptv.net:8080/rosa/rosa/53
+#EXTINF:-1,Sony SD
+http://maxptv.net:8080/rosa/rosa/52
+#EXTINF:-1,South Park 24H
+http://maxptv.net:8080/rosa/rosa/544
+#EXTINF:-1,Space HD
+http://maxptv.net:8080/rosa/rosa/51
+#EXTINF:-1,Space SD
+http://maxptv.net:8080/rosa/rosa/50
+#EXTINF:-1,SporTV 2 FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3058
+#EXTINF:-1,SPORTV 3 FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3059
+#EXTINF:-1,SporTV FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3057
+#EXTINF:-1,SporTV HD
+http://maxptv.net:8080/rosa/rosa/49
+#EXTINF:-1,SporTV SD
+http://maxptv.net:8080/rosa/rosa/48
+#EXTINF:-1,SporTV2 HD
+http://maxptv.net:8080/rosa/rosa/47
+#EXTINF:-1,SporTV2 SD
+http://maxptv.net:8080/rosa/rosa/46
+#EXTINF:-1,SporTV3 HD
+http://maxptv.net:8080/rosa/rosa/45
+#EXTINF:-1,SporTV3 SD
+http://maxptv.net:8080/rosa/rosa/44
+#EXTINF:-1,Studio Universal HD
+http://maxptv.net:8080/rosa/rosa/43
+#EXTINF:-1,Studio Universal SD
+http://maxptv.net:8080/rosa/rosa/42
+#EXTINF:-1,Syfy HD
+http://maxptv.net:8080/rosa/rosa/41
+#EXTINF:-1,Syfy SD
+http://maxptv.net:8080/rosa/rosa/40
+#EXTINF:-1,Tbs HD
+http://maxptv.net:8080/rosa/rosa/39
+#EXTINF:-1,Tbs SD
+http://maxptv.net:8080/rosa/rosa/38
+#EXTINF:-1,TCM HD
+http://maxptv.net:8080/rosa/rosa/37
+#EXTINF:-1,TCM SD
+http://maxptv.net:8080/rosa/rosa/36
+#EXTINF:-1,TELECINE ACTION FULL  HD
+http://maxptv.net:8080/rosa/rosa/3056
+#EXTINF:-1,Telecine Action HD
+http://maxptv.net:8080/rosa/rosa/35
+#EXTINF:-1,Telecine Action SD
+http://maxptv.net:8080/rosa/rosa/34
+#EXTINF:-1,Telecine Cult HD
+http://maxptv.net:8080/rosa/rosa/33
+#EXTINF:-1,Telecine Cult SD
+http://maxptv.net:8080/rosa/rosa/32
+#EXTINF:-1,TELECINE FUN FULL  HD H265
+http://maxptv.net:8080/rosa/rosa/3055
+#EXTINF:-1,Telecine Fun HD
+http://maxptv.net:8080/rosa/rosa/31
+#EXTINF:-1,Telecine Fun SD
+http://maxptv.net:8080/rosa/rosa/30
+#EXTINF:-1,TELECINE PIPOCA FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3054
+#EXTINF:-1,Telecine Pipoca HD
+http://maxptv.net:8080/rosa/rosa/29
+#EXTINF:-1,Telecine Pipoca SD
+http://maxptv.net:8080/rosa/rosa/28
+#EXTINF:-1,TELECINE PREMIUM FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3053
+#EXTINF:-1,Telecine Premium HD
+http://maxptv.net:8080/rosa/rosa/27
+#EXTINF:-1,Telecine Premium SD
+http://maxptv.net:8080/rosa/rosa/26
+#EXTINF:-1,TELECINE TOUCH FULL HD
+http://maxptv.net:8080/rosa/rosa/3070
+#EXTINF:-1,Telecine Touch HD
+http://maxptv.net:8080/rosa/rosa/25
+#EXTINF:-1,Telecine Touch SD
+http://maxptv.net:8080/rosa/rosa/24
+#EXTINF:-1,The Backyardigans 24H
+http://maxptv.net:8080/rosa/rosa/558
+#EXTINF:-1,The Big Bang Theory 24H
+http://maxptv.net:8080/rosa/rosa/543
+#EXTINF:-1,THE HISTORY CHANNEL FULL HD
+http://maxptv.net:8080/rosa/rosa/3052
+#EXTINF:-1,TLC HD
+http://maxptv.net:8080/rosa/rosa/23
+#EXTINF:-1,TLC SD
+http://maxptv.net:8080/rosa/rosa/22
+#EXTINF:-1,TNT FULLHD
+http://maxptv.net:8080/rosa/rosa/3069
+#EXTINF:-1,TNT HD
+http://maxptv.net:8080/rosa/rosa/21
+#EXTINF:-1,TNT SD
+http://maxptv.net:8080/rosa/rosa/20
+#EXTINF:-1,TNT Series HD
+http://maxptv.net:8080/rosa/rosa/517
+#EXTINF:-1,TNT Series SD
+http://maxptv.net:8080/rosa/rosa/18
+#EXTINF:-1,Todo Mundo Odeia o Cris
+http://maxptv.net:8080/rosa/rosa/317
+#EXTINF:-1,Tom & Jerry  24H
+http://maxptv.net:8080/rosa/rosa/557
+#EXTINF:-1,Tooncast HD
+http://maxptv.net:8080/rosa/rosa/17
+#EXTINF:-1,Tooncast SD
+http://maxptv.net:8080/rosa/rosa/16
+#EXTINF:-1,TV Aparecida FULL HD
+http://maxptv.net:8080/rosa/rosa/3046
+#EXTINF:-1,TV Aparecida HD
+http://maxptv.net:8080/rosa/rosa/15
+#EXTINF:-1,TV Aparecida SD
+http://maxptv.net:8080/rosa/rosa/14
+#EXTINF:-1,TV Rio Preto
+http://maxptv.net:8080/rosa/rosa/13
+#EXTINF:-1,TV RÁ TIM BUM FULL HD H265
+http://maxptv.net:8080/rosa/rosa/3051
+#EXTINF:-1,Two And a Half Man 24H
+http://maxptv.net:8080/rosa/rosa/542
+#EXTINF:-1,Um Maluco No Pedaco  24H
+http://maxptv.net:8080/rosa/rosa/541
+#EXTINF:-1,Universal Channel HD
+http://maxptv.net:8080/rosa/rosa/12
+#EXTINF:-1,Universal Channel SD
+http://maxptv.net:8080/rosa/rosa/11
+#EXTINF:-1,Venus HD
+http://maxptv.net:8080/rosa/rosa/10
+#EXTINF:-1,Venus SD
+http://maxptv.net:8080/rosa/rosa/9
+#EXTINF:-1,VH1 HD
+http://maxptv.net:8080/rosa/rosa/8
+#EXTINF:-1,VH1 SD
+http://maxptv.net:8080/rosa/rosa/7
+#EXTINF:-1,Viva HD
+http://maxptv.net:8080/rosa/rosa/6
+#EXTINF:-1,Viva SD
+http://maxptv.net:8080/rosa/rosa/5
+#EXTINF:-1,Warner Bros HD
+http://maxptv.net:8080/rosa/rosa/4
+#EXTINF:-1,Warner Bros SD
+http://maxptv.net:8080/rosa/rosa/3
+#EXTINF:-1,X-Men Evolution 24H
+http://maxptv.net:8080/rosa/rosa/1483
+#EXTINF:-1,Zoomoo HD
+http://maxptv.net:8080/rosa/rosa/2
+#EXTINF:-1,Zoomoo SD
+http://maxptv.net:8080/rosa/rosa/1
