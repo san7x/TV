@@ -126,3 +126,9 @@ http://192.99.150.31:9485/stream
 http://192.99.150.31:9089/stream
 #EXTINF:-1 tvg-logo="http://i.imgur.com/MmJBR9j.png" group-title="Sound!",Rock Clássico
 http://192.99.150.31:9125/stream
+
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV Latina" tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="", Miami TV Latina
+http://server.miamitvchannel.com/canal18/smil:canal18/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin HD" tvg-logo="http://lhmtv.tk/xxxlogo/canalxxx.png" group-title="Adulto +", Jasmin HD
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
