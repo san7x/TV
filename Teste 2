@@ -1,677 +1,460 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-http://maxptv.net:8080/rosa/rosa/236
-#EXTINF:-1,A&E SD
-http://maxptv.net:8080/rosa/rosa/235
-#EXTINF:-1,Amc HD
-http://maxptv.net:8080/rosa/rosa/512
-#EXTINF:-1,AMC SD
-http://maxptv.net:8080/rosa/rosa/233
-#EXTINF:-1,Animal Planet HD
-http://maxptv.net:8080/rosa/rosa/232
-#EXTINF:-1,Animal Planet SD
-http://maxptv.net:8080/rosa/rosa/231
-#EXTINF:-1,AXN HD
-http://maxptv.net:8080/rosa/rosa/535
-#EXTINF:-1,AXN SD
-http://maxptv.net:8080/rosa/rosa/227
-#EXTINF:-1,BabyTV HD
-http://maxptv.net:8080/rosa/rosa/226
-#EXTINF:-1,BabyTV SD
-http://maxptv.net:8080/rosa/rosa/225
-#EXTINF:-1,Band Campinas HD
-http://maxptv.net:8080/rosa/rosa/242
-#EXTINF:-1,Band Campinas SD
-http://maxptv.net:8080/rosa/rosa/241
-#EXTINF:-1,Band News HD
-http://maxptv.net:8080/rosa/rosa/224
-#EXTINF:-1,Band News SD
-http://maxptv.net:8080/rosa/rosa/223
-#EXTINF:-1,Band SP HD
-http://maxptv.net:8080/rosa/rosa/130
-#EXTINF:-1,Band SP SD
-http://maxptv.net:8080/rosa/rosa/129
-#EXTINF:-1,Band Sports HD
-http://maxptv.net:8080/rosa/rosa/221
-#EXTINF:-1,Band Sports SD
-http://maxptv.net:8080/rosa/rosa/220
-#EXTINF:-1,Big Brother Brasil 2020 HD
-http://maxptv.net:8080/rosa/rosa/230
-#EXTINF:-1,Big Brother Brasil 2020  SD
-http://maxptv.net:8080/rosa/rosa/229
-#EXTINF:-1,BIZ HD
-http://maxptv.net:8080/rosa/rosa/219
-#EXTINF:-1,BIZ SD
-http://maxptv.net:8080/rosa/rosa/218
-#EXTINF:-1,Boomerang HD
-http://maxptv.net:8080/rosa/rosa/217
-#EXTINF:-1,Boomerang SD
-http://maxptv.net:8080/rosa/rosa/216
-#EXTINF:-1,Canal Canção Nova HD
-http://maxptv.net:8080/rosa/rosa/215
-#EXTINF:-1,Canal Canal Canção SD
-http://maxptv.net:8080/rosa/rosa/214
-#EXTINF:-1,Canal Futura HD
-http://maxptv.net:8080/rosa/rosa/211
-#EXTINF:-1,Canal Futura SD
-http://maxptv.net:8080/rosa/rosa/210
-#EXTINF:-1,Canal Curta! HD
-http://maxptv.net:8080/rosa/rosa/213
-#EXTINF:-1,Canal Curta! SD
-http://maxptv.net:8080/rosa/rosa/212
-#EXTINF:-1,Canal HGTV HD
-http://maxptv.net:8080/rosa/rosa/193
-#EXTINF:-1,Canal HGTV SD
-http://maxptv.net:8080/rosa/rosa/192
-#EXTINF:-1,Canal OFF HD
-http://maxptv.net:8080/rosa/rosa/209
-#EXTINF:-1,Canal OFF SD
-http://maxptv.net:8080/rosa/rosa/208
-#EXTINF:-1,Canal Woohoo HD
-http://maxptv.net:8080/rosa/rosa/207
-#EXTINF:-1,Canal Woohoo SD
-http://maxptv.net:8080/rosa/rosa/206
-#EXTINF:-1,Cartoon Network HD
-http://maxptv.net:8080/rosa/rosa/524
-#EXTINF:-1,Cartoon Network SD
-http://maxptv.net:8080/rosa/rosa/204
-#EXTINF:-1,Comedy Central HD
-http://maxptv.net:8080/rosa/rosa/199
-#EXTINF:-1,Comedy Central SD
-http://maxptv.net:8080/rosa/rosa/198
-#EXTINF:-1,Combate HD
-http://maxptv.net:8080/rosa/rosa/201
-#EXTINF:-1,Combate SD
-http://maxptv.net:8080/rosa/rosa/200
-#EXTINF:-1,Cinemax HD
-http://maxptv.net:8080/rosa/rosa/203
-#EXTINF:-1,Cinemax SD
-http://maxptv.net:8080/rosa/rosa/202
-#EXTINF:-1,A&E  FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3036
-#EXTINF:-1,ANIMAL PLANET FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3037
-#EXTINF:-1,AXN  FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3038
-#EXTINF:-1,Black Kamen Rider 24H
-http://maxptv.net:8080/rosa/rosa/537
-#EXTINF:-1,Bob Esponja
-http://maxptv.net:8080/rosa/rosa/319
-#EXTINF:-1,Canal CSI 24H
-http://maxptv.net:8080/rosa/rosa/538
-#EXTINF:-1,CARTOON NETWORK FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3039
-#EXTINF:-1,Caverna do Dragao  24H
-http://maxptv.net:8080/rosa/rosa/539
-#EXTINF:-1,CDZ  Saga de Poseidon 24H
-http://maxptv.net:8080/rosa/rosa/540
-#EXTINF:-1,Chaves 24H
-http://maxptv.net:8080/rosa/rosa/547
-#EXTINF:-1,Cine Action 24H Ultra HD
-http://maxptv.net:8080/rosa/rosa/548
-#EXTINF:-1,Cine Aventura 24H Ultra HD
-http://maxptv.net:8080/rosa/rosa/549
-#EXTINF:-1,Cine Drama 24H Ultra HD
-http://maxptv.net:8080/rosa/rosa/550
-#EXTINF:-1,Cine Family 24H
-http://maxptv.net:8080/rosa/rosa/551
-#EXTINF:-1,Cine Faroeste 24H Ultra HD
-http://maxptv.net:8080/rosa/rosa/1478
-#EXTINF:-1,Cine Fiction 24H Ultra HD
-http://maxptv.net:8080/rosa/rosa/536
-#EXTINF:-1,Cine Fun 24H Ultra HD
-http://maxptv.net:8080/rosa/rosa/552
-#EXTINF:-1,Cine Guerra 24H Ultra HD
-http://maxptv.net:8080/rosa/rosa/1477
-#EXTINF:-1,Cine Horror 24H Ultra HD
-http://maxptv.net:8080/rosa/rosa/553
-#EXTINF:-1,CINE KIDS 24H ULTRA HD
-http://maxptv.net:8080/rosa/rosa/554
-#EXTINF:-1,CINE Nacionais 24H
-http://maxptv.net:8080/rosa/rosa/555
-#EXTINF:-1,Como eu Conheci a Sua Mae  24H
-http://maxptv.net:8080/rosa/rosa/567
-#EXTINF:-1,Cultura HD
-http://maxptv.net:8080/rosa/rosa/197
-#EXTINF:-1,CULTURA HD FHD
-http://maxptv.net:8080/rosa/rosa/3040
-#EXTINF:-1,Cultura SD
-http://maxptv.net:8080/rosa/rosa/196
-#EXTINF:-1,Cybercop 24H
-http://maxptv.net:8080/rosa/rosa/1479
-#EXTINF:-1,DISCORVERY CIVILIZATION FULL HD
-http://maxptv.net:8080/rosa/rosa/3044
-#EXTINF:-1,DISCORVERY KIDS FULL HD
-http://maxptv.net:8080/rosa/rosa/3041
-#EXTINF:-1,DISCORVERY THEATER FULL HD
-http://maxptv.net:8080/rosa/rosa/3042
-#EXTINF:-1,Discovery Channel HD
-http://maxptv.net:8080/rosa/rosa/195
-#EXTINF:-1,Discovery Channel SD
-http://maxptv.net:8080/rosa/rosa/194
-#EXTINF:-1,Discovery Home & Health HD
-http://maxptv.net:8080/rosa/rosa/191
-#EXTINF:-1,Discovery Home & Health SD
-http://maxptv.net:8080/rosa/rosa/190
-#EXTINF:-1,Discovery Kids HD
-http://maxptv.net:8080/rosa/rosa/189
-#EXTINF:-1,Discovery Kids SD
-http://maxptv.net:8080/rosa/rosa/188
-#EXTINF:-1,Discovery Science HD
-http://maxptv.net:8080/rosa/rosa/187
-#EXTINF:-1,Discovery Science SD
-http://maxptv.net:8080/rosa/rosa/186
-#EXTINF:-1,Discovery Theater HD
-http://maxptv.net:8080/rosa/rosa/185
-#EXTINF:-1,Discovery Theater SD
-http://maxptv.net:8080/rosa/rosa/184
-#EXTINF:-1,DISCOVERY TURBO FULL HD
-http://maxptv.net:8080/rosa/rosa/3043
-#EXTINF:-1,Discovery Turbo HD
-http://maxptv.net:8080/rosa/rosa/183
-#EXTINF:-1,Discovery Turbo SD
-http://maxptv.net:8080/rosa/rosa/182
-#EXTINF:-1,Discovery World HD
-http://maxptv.net:8080/rosa/rosa/181
-#EXTINF:-1,Discovery World SD
-http://maxptv.net:8080/rosa/rosa/180
-#EXTINF:-1,Disney Channel  HD
-http://maxptv.net:8080/rosa/rosa/179
-#EXTINF:-1,DISNEY CHANNEL FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3045
-#EXTINF:-1,Disney Channel SD
-http://maxptv.net:8080/rosa/rosa/178
-#EXTINF:-1,Disney Junior HD
-http://maxptv.net:8080/rosa/rosa/177
-#EXTINF:-1,Disney Junior SD
-http://maxptv.net:8080/rosa/rosa/176
-#EXTINF:-1,Disney XD HD
-http://maxptv.net:8080/rosa/rosa/175
-#EXTINF:-1,Disney XD SD
-http://maxptv.net:8080/rosa/rosa/174
-#EXTINF:-1,DR. House 24HR
-http://maxptv.net:8080/rosa/rosa/568
-#EXTINF:-1,Dragoes  24H
-http://maxptv.net:8080/rosa/rosa/1480
-#EXTINF:-1,E! HD
-http://maxptv.net:8080/rosa/rosa/516
-#EXTINF:-1,E! SD
-http://maxptv.net:8080/rosa/rosa/172
-#EXTINF:-1,EPTV Campinas HD
-http://maxptv.net:8080/rosa/rosa/238
-#EXTINF:-1,EPTV Campinas HD 2
-http://maxptv.net:8080/rosa/rosa/246
-#EXTINF:-1,EPTV Campinas SD
-http://maxptv.net:8080/rosa/rosa/237
-#EXTINF:-1,Eptv FHD Ribeirao
-http://maxptv.net:8080/rosa/rosa/3073
-#EXTINF:-1,Espn  2 HD
-http://maxptv.net:8080/rosa/rosa/171
-#EXTINF:-1,Espn  2 SD 
-http://maxptv.net:8080/rosa/rosa/170
-#EXTINF:-1,ESPN BRASIL FULL  HD H265
-http://maxptv.net:8080/rosa/rosa/3047
-#EXTINF:-1,Espn Brasil HD
-http://maxptv.net:8080/rosa/rosa/169
-#EXTINF:-1,Espn Brasil SD
-http://maxptv.net:8080/rosa/rosa/168
-#EXTINF:-1,Espn Extra  SD
-http://maxptv.net:8080/rosa/rosa/164
-#EXTINF:-1,Espn Extra HD
-http://maxptv.net:8080/rosa/rosa/165
-#EXTINF:-1,Espn HD
-http://maxptv.net:8080/rosa/rosa/167
-#EXTINF:-1,Espn SD
-http://maxptv.net:8080/rosa/rosa/166
-#EXTINF:-1,Eu a Patroa e as Crianças
-http://maxptv.net:8080/rosa/rosa/321
-#EXTINF:-1,Familia da Pesada 24H
-http://maxptv.net:8080/rosa/rosa/1481
-#EXTINF:-1,Familia Dinossauro  24H
-http://maxptv.net:8080/rosa/rosa/569
-#EXTINF:-1,Film&Arts HD
-http://maxptv.net:8080/rosa/rosa/163
-#EXTINF:-1,Film&Arts SD
-http://maxptv.net:8080/rosa/rosa/162
-#EXTINF:-1,FISH TV HD
-http://maxptv.net:8080/rosa/rosa/525
-#EXTINF:-1,Fish TV SD
-http://maxptv.net:8080/rosa/rosa/161
-#EXTINF:-1,Food Network HD
-http://maxptv.net:8080/rosa/rosa/158
-#EXTINF:-1,Food Network SD
-http://maxptv.net:8080/rosa/rosa/159
-#EXTINF:-1,FOX ESPORTES 2 FULL HD  H265
-http://maxptv.net:8080/rosa/rosa/3048
-#EXTINF:-1,FOX ESPORTES FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3049
-#EXTINF:-1,FOX FULL HD h265
-http://maxptv.net:8080/rosa/rosa/3050
-#EXTINF:-1,FOX HD
-http://maxptv.net:8080/rosa/rosa/157
-#EXTINF:-1,FOX Life HD
-http://maxptv.net:8080/rosa/rosa/156
-#EXTINF:-1,FOX Life SD
-http://maxptv.net:8080/rosa/rosa/155
-#EXTINF:-1,Fox Premium 2 HD
-http://maxptv.net:8080/rosa/rosa/526
-#EXTINF:-1,Fox Premium 2 SD
-http://maxptv.net:8080/rosa/rosa/527
-#EXTINF:-1,Fox Premium HD
-http://maxptv.net:8080/rosa/rosa/528
-#EXTINF:-1,Fox Premium SD
-http://maxptv.net:8080/rosa/rosa/151
-#EXTINF:-1,FOX SD
-http://maxptv.net:8080/rosa/rosa/150
-#EXTINF:-1,Fox Sports 2 HD
-http://maxptv.net:8080/rosa/rosa/529
-#EXTINF:-1,Fox Sports 2 SD
-http://maxptv.net:8080/rosa/rosa/148
-#EXTINF:-1,Fox Sports HD
-http://maxptv.net:8080/rosa/rosa/147
-#EXTINF:-1,Fox Sports SD
-http://maxptv.net:8080/rosa/rosa/146
-#EXTINF:-1,FX HD
-http://maxptv.net:8080/rosa/rosa/145
-#EXTINF:-1,FX SD
-http://maxptv.net:8080/rosa/rosa/144
-#EXTINF:-1,Galinha Pintadinha 24H
-http://maxptv.net:8080/rosa/rosa/1476
-#EXTINF:-1,Globo Ribeirão HD
-http://maxptv.net:8080/rosa/rosa/985
-#EXTINF:-1,Globo Ribeirão SD
-http://maxptv.net:8080/rosa/rosa/986
-#EXTINF:-1,Globo SP HD
-http://maxptv.net:8080/rosa/rosa/72
-#EXTINF:-1,Globo SP SD
-http://maxptv.net:8080/rosa/rosa/71
-#EXTINF:-1,GloboNews HD
-http://maxptv.net:8080/rosa/rosa/143
-#EXTINF:-1,GloboNews SD
-http://maxptv.net:8080/rosa/rosa/142
-#EXTINF:-1,Gloob HD
-http://maxptv.net:8080/rosa/rosa/530
-#EXTINF:-1,Gloob SD
-http://maxptv.net:8080/rosa/rosa/140
-#EXTINF:-1,GNT HD
-http://maxptv.net:8080/rosa/rosa/139
-#EXTINF:-1,GNT SD
-http://maxptv.net:8080/rosa/rosa/138
-#EXTINF:-1,H2 HD
-http://maxptv.net:8080/rosa/rosa/137
-#EXTINF:-1,H2 SD
-http://maxptv.net:8080/rosa/rosa/523
-#EXTINF:-1,HBO 2 HD
-http://maxptv.net:8080/rosa/rosa/135
-#EXTINF:-1,HBO 2 SD
-http://maxptv.net:8080/rosa/rosa/134
-#EXTINF:-1,HBO Family HD
-http://maxptv.net:8080/rosa/rosa/133
-#EXTINF:-1,HBO Family SD
-http://maxptv.net:8080/rosa/rosa/132
-#EXTINF:-1,HBO HD
-http://maxptv.net:8080/rosa/rosa/131
-#EXTINF:-1,HBO Plus HD
-http://maxptv.net:8080/rosa/rosa/128
-#EXTINF:-1,HBO Plus SD
-http://maxptv.net:8080/rosa/rosa/127
-#EXTINF:-1,HBO SD
-http://maxptv.net:8080/rosa/rosa/126
-#EXTINF:-1,HBO Signature HD
-http://maxptv.net:8080/rosa/rosa/531
-#EXTINF:-1,HBO Signature SD
-http://maxptv.net:8080/rosa/rosa/124
-#EXTINF:-1,History Channel HD
-http://maxptv.net:8080/rosa/rosa/532
-#EXTINF:-1,History Channel SD
-http://maxptv.net:8080/rosa/rosa/122
-#EXTINF:-1,Homem-Aranha 24H
-http://maxptv.net:8080/rosa/rosa/566
-#EXTINF:-1,ID HD
-http://maxptv.net:8080/rosa/rosa/121
-#EXTINF:-1,ID SD
-http://maxptv.net:8080/rosa/rosa/120
-#EXTINF:-1,Jaspion 24H
-http://maxptv.net:8080/rosa/rosa/570
-#EXTINF:-1,Jiraya  O Incrivel Ninja 24H
-http://maxptv.net:8080/rosa/rosa/1475
-#EXTINF:-1,Larva 24H
-http://maxptv.net:8080/rosa/rosa/1474
-#EXTINF:-1,Lifetime HD
-http://maxptv.net:8080/rosa/rosa/522
-#EXTINF:-1,Lifetime SD
-http://maxptv.net:8080/rosa/rosa/118
-#EXTINF:-1,Lion Man 24H
-http://maxptv.net:8080/rosa/rosa/1473
-#EXTINF:-1,Looney Tunnes 24H
-http://maxptv.net:8080/rosa/rosa/565
-#EXTINF:-1,Mais Globosat HD
-http://maxptv.net:8080/rosa/rosa/117
-#EXTINF:-1,Mais Globosat SD
-http://maxptv.net:8080/rosa/rosa/116
-#EXTINF:-1,MARVEL & DC 24H
-http://maxptv.net:8080/rosa/rosa/545
-#EXTINF:-1,HBO Mundi HD
-http://maxptv.net:8080/rosa/rosa/521
-#EXTINF:-1,HBO Xtreme HD
-http://maxptv.net:8080/rosa/rosa/520
-#EXTINF:-1,HBO Xtreme SD
-http://maxptv.net:8080/rosa/rosa/113
-#EXTINF:-1,HBO Mundi SD
-http://maxptv.net:8080/rosa/rosa/112
-#EXTINF:-1,Max up full hd
-http://maxptv.net:8080/rosa/rosa/3074
-#EXTINF:-1,HBO Pop HD
-http://maxptv.net:8080/rosa/rosa/111
-#EXTINF:-1,HBO Pop SD
-http://maxptv.net:8080/rosa/rosa/110
-#EXTINF:-1,Megapix HD
-http://maxptv.net:8080/rosa/rosa/109
-#EXTINF:-1,Megapix SD
-http://maxptv.net:8080/rosa/rosa/108
-#EXTINF:-1,MR. Bean 24H
-http://maxptv.net:8080/rosa/rosa/546
-#EXTINF:-1,MTV HD
-http://maxptv.net:8080/rosa/rosa/519
-#EXTINF:-1,MTV SD
-http://maxptv.net:8080/rosa/rosa/106
-#EXTINF:-1,MULTISHOW HD
-http://maxptv.net:8080/rosa/rosa/105
-#EXTINF:-1,MULTISHOW SD
-http://maxptv.net:8080/rosa/rosa/104
-#EXTINF:-1,MULTSHOW FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3067
-#EXTINF:-1,Naruto 24H
-http://maxptv.net:8080/rosa/rosa/564
-#EXTINF:-1,Nat Geo Kids HD
-http://maxptv.net:8080/rosa/rosa/518
-#EXTINF:-1,Nat Geo Kids SD
-http://maxptv.net:8080/rosa/rosa/102
-#EXTINF:-1,Nat Geo Wild HD
-http://maxptv.net:8080/rosa/rosa/101
-#EXTINF:-1,Nat Geo Wild SD
-http://maxptv.net:8080/rosa/rosa/100
-#EXTINF:-1,NATIONAL GEOGRAPHIC FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3068
-#EXTINF:-1,National Geographic HD
-http://maxptv.net:8080/rosa/rosa/99
-#EXTINF:-1,National Geographic SD
-http://maxptv.net:8080/rosa/rosa/98
-#EXTINF:-1,NHK HD
-http://maxptv.net:8080/rosa/rosa/97
-#EXTINF:-1,NHK SD
-http://maxptv.net:8080/rosa/rosa/96
-#EXTINF:-1,NICK JR  FULL HD
-http://maxptv.net:8080/rosa/rosa/3072
-#EXTINF:-1,Nick Jr HD
-http://maxptv.net:8080/rosa/rosa/95
-#EXTINF:-1,Nick Jr SD
-http://maxptv.net:8080/rosa/rosa/94
-#EXTINF:-1,NICKELOAD FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3063
-#EXTINF:-1,Nickelodeon HD
-http://maxptv.net:8080/rosa/rosa/93
-#EXTINF:-1,Nickelodeon SD
-http://maxptv.net:8080/rosa/rosa/92
-#EXTINF:-1,Os Simpsons 24H
-http://maxptv.net:8080/rosa/rosa/563
-#EXTINF:-1,Os Vingadores 24H
-http://maxptv.net:8080/rosa/rosa/1482
-#EXTINF:-1,Paramount Channel HD
-http://maxptv.net:8080/rosa/rosa/91
-#EXTINF:-1,Paramount Channel SD
-http://maxptv.net:8080/rosa/rosa/90
-#EXTINF:-1,Peppa Pig 24H
-http://maxptv.net:8080/rosa/rosa/562
-#EXTINF:-1,Playboy HD
-http://maxptv.net:8080/rosa/rosa/88
-#EXTINF:-1,Playboy SD
-http://maxptv.net:8080/rosa/rosa/87
-#EXTINF:-1,POCOYO 24H
-http://maxptv.net:8080/rosa/rosa/561
-#EXTINF:-1,Pokemon 24H
-http://maxptv.net:8080/rosa/rosa/560
-#EXTINF:-1,Premiere 1 HD
-http://maxptv.net:8080/rosa/rosa/86
-#EXTINF:-1,Premiere 1 HD Alternativo
-http://maxptv.net:8080/rosa/rosa/1461
-#EXTINF:-1,Premiere 1 HD2
-http://maxptv.net:8080/rosa/rosa/247
-#EXTINF:-1,Premiere 1 SD
-http://maxptv.net:8080/rosa/rosa/85
-#EXTINF:-1,PREMIERE 2 FULL HD
-http://maxptv.net:8080/rosa/rosa/3064
-#EXTINF:-1,Premiere 2 HD
-http://maxptv.net:8080/rosa/rosa/84
-#EXTINF:-1,Premiere 2 HD Alternativo
-http://maxptv.net:8080/rosa/rosa/1462
-#EXTINF:-1,Premiere 2 SD
-http://maxptv.net:8080/rosa/rosa/83
-#EXTINF:-1,PREMIERE 3 FHD
-http://maxptv.net:8080/rosa/rosa/3065
-#EXTINF:-1,Premiere 3 HD
-http://maxptv.net:8080/rosa/rosa/82
-#EXTINF:-1,Premiere 3 HD Alternativo
-http://maxptv.net:8080/rosa/rosa/1463
-#EXTINF:-1,Premiere 3 SD
-http://maxptv.net:8080/rosa/rosa/81
-#EXTINF:-1,PREMIERE 4 FHD
-http://maxptv.net:8080/rosa/rosa/3066
-#EXTINF:-1,Premiere 4 HD
-http://maxptv.net:8080/rosa/rosa/80
-#EXTINF:-1,Premiere 4 HD Alternativo
-http://maxptv.net:8080/rosa/rosa/1464
-#EXTINF:-1,Premiere 4 SD
-http://maxptv.net:8080/rosa/rosa/79
-#EXTINF:-1,Premiere 5 HD
-http://maxptv.net:8080/rosa/rosa/78
-#EXTINF:-1,Premiere 5 HD Alternativo
-http://maxptv.net:8080/rosa/rosa/1465
-#EXTINF:-1,Premiere 5 SD
-http://maxptv.net:8080/rosa/rosa/77
-#EXTINF:-1,Premiere 6 HD
-http://maxptv.net:8080/rosa/rosa/76
-#EXTINF:-1,Premiere 6 HD Alternativo
-http://maxptv.net:8080/rosa/rosa/1466
-#EXTINF:-1,Premiere 6 SD
-http://maxptv.net:8080/rosa/rosa/75
-#EXTINF:-1,Premiere 7 HD
-http://maxptv.net:8080/rosa/rosa/74
-#EXTINF:-1,Premiere 7 HD Alternativo
-http://maxptv.net:8080/rosa/rosa/1467
-#EXTINF:-1,Premiere 7 SD
-http://maxptv.net:8080/rosa/rosa/73
-#EXTINF:-1,PREMIERE CLUBES FULL HD
-http://maxptv.net:8080/rosa/rosa/3062
-#EXTINF:-1,Record HD
-http://maxptv.net:8080/rosa/rosa/240
-#EXTINF:-1,Record HD 2
-http://maxptv.net:8080/rosa/rosa/68
-#EXTINF:-1,RECORD NEWS FULL HD
-http://maxptv.net:8080/rosa/rosa/3061
-#EXTINF:-1,Record News HD
-http://maxptv.net:8080/rosa/rosa/67
-#EXTINF:-1,Record News SD
-http://maxptv.net:8080/rosa/rosa/66
-#EXTINF:-1,Record SD
-http://maxptv.net:8080/rosa/rosa/239
-#EXTINF:-1,Record SP HD
-http://maxptv.net:8080/rosa/rosa/65
-#EXTINF:-1,Record SP SD
-http://maxptv.net:8080/rosa/rosa/64
-#EXTINF:-1,REDE TV FHD
-http://maxptv.net:8080/rosa/rosa/3071
-#EXTINF:-1,Rede Vida HD
-http://maxptv.net:8080/rosa/rosa/62
-#EXTINF:-1,Rede Vida SD
-http://maxptv.net:8080/rosa/rosa/63
-#EXTINF:-1,RedeTV HD
-http://maxptv.net:8080/rosa/rosa/61
-#EXTINF:-1,RedeTV SD
-http://maxptv.net:8080/rosa/rosa/60
-#EXTINF:-1,Rá -Tim Bum- HD
-http://maxptv.net:8080/rosa/rosa/70
-#EXTINF:-1,Rá- Tim- Bum SD
-http://maxptv.net:8080/rosa/rosa/69
-#EXTINF:-1,SBT FHD INTERIOR
-http://maxptv.net:8080/rosa/rosa/3060
-#EXTINF:-1,Sbt HD
-http://maxptv.net:8080/rosa/rosa/59
-#EXTINF:-1,Sbt SD
-http://maxptv.net:8080/rosa/rosa/58
-#EXTINF:-1,Sextreme HD
-http://maxptv.net:8080/rosa/rosa/57
-#EXTINF:-1,Sextreme SD
-http://maxptv.net:8080/rosa/rosa/56
-#EXTINF:-1,Sexy Hot HD
-http://maxptv.net:8080/rosa/rosa/55
-#EXTINF:-1,Sexy Hot SD
-http://maxptv.net:8080/rosa/rosa/54
-#EXTINF:-1,Show da Luna 24H
-http://maxptv.net:8080/rosa/rosa/559
-#EXTINF:-1,Sony HD
-http://maxptv.net:8080/rosa/rosa/53
-#EXTINF:-1,Sony SD
-http://maxptv.net:8080/rosa/rosa/52
-#EXTINF:-1,South Park 24H
-http://maxptv.net:8080/rosa/rosa/544
-#EXTINF:-1,Space HD
-http://maxptv.net:8080/rosa/rosa/51
-#EXTINF:-1,Space SD
-http://maxptv.net:8080/rosa/rosa/50
-#EXTINF:-1,SporTV 2 FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3058
-#EXTINF:-1,SPORTV 3 FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3059
-#EXTINF:-1,SporTV FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3057
-#EXTINF:-1,SporTV HD
-http://maxptv.net:8080/rosa/rosa/49
-#EXTINF:-1,SporTV SD
-http://maxptv.net:8080/rosa/rosa/48
-#EXTINF:-1,SporTV2 HD
-http://maxptv.net:8080/rosa/rosa/47
-#EXTINF:-1,SporTV2 SD
-http://maxptv.net:8080/rosa/rosa/46
-#EXTINF:-1,SporTV3 HD
-http://maxptv.net:8080/rosa/rosa/45
-#EXTINF:-1,SporTV3 SD
-http://maxptv.net:8080/rosa/rosa/44
-#EXTINF:-1,Studio Universal HD
-http://maxptv.net:8080/rosa/rosa/43
-#EXTINF:-1,Studio Universal SD
-http://maxptv.net:8080/rosa/rosa/42
-#EXTINF:-1,Syfy HD
-http://maxptv.net:8080/rosa/rosa/41
-#EXTINF:-1,Syfy SD
-http://maxptv.net:8080/rosa/rosa/40
-#EXTINF:-1,Tbs HD
-http://maxptv.net:8080/rosa/rosa/39
-#EXTINF:-1,Tbs SD
-http://maxptv.net:8080/rosa/rosa/38
-#EXTINF:-1,TCM HD
-http://maxptv.net:8080/rosa/rosa/37
-#EXTINF:-1,TCM SD
-http://maxptv.net:8080/rosa/rosa/36
-#EXTINF:-1,TELECINE ACTION FULL  HD
-http://maxptv.net:8080/rosa/rosa/3056
-#EXTINF:-1,Telecine Action HD
-http://maxptv.net:8080/rosa/rosa/35
-#EXTINF:-1,Telecine Action SD
-http://maxptv.net:8080/rosa/rosa/34
-#EXTINF:-1,Telecine Cult HD
-http://maxptv.net:8080/rosa/rosa/33
-#EXTINF:-1,Telecine Cult SD
-http://maxptv.net:8080/rosa/rosa/32
-#EXTINF:-1,TELECINE FUN FULL  HD H265
-http://maxptv.net:8080/rosa/rosa/3055
-#EXTINF:-1,Telecine Fun HD
-http://maxptv.net:8080/rosa/rosa/31
-#EXTINF:-1,Telecine Fun SD
-http://maxptv.net:8080/rosa/rosa/30
-#EXTINF:-1,TELECINE PIPOCA FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3054
-#EXTINF:-1,Telecine Pipoca HD
-http://maxptv.net:8080/rosa/rosa/29
-#EXTINF:-1,Telecine Pipoca SD
-http://maxptv.net:8080/rosa/rosa/28
-#EXTINF:-1,TELECINE PREMIUM FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3053
-#EXTINF:-1,Telecine Premium HD
-http://maxptv.net:8080/rosa/rosa/27
-#EXTINF:-1,Telecine Premium SD
-http://maxptv.net:8080/rosa/rosa/26
-#EXTINF:-1,TELECINE TOUCH FULL HD
-http://maxptv.net:8080/rosa/rosa/3070
-#EXTINF:-1,Telecine Touch HD
-http://maxptv.net:8080/rosa/rosa/25
-#EXTINF:-1,Telecine Touch SD
-http://maxptv.net:8080/rosa/rosa/24
-#EXTINF:-1,The Backyardigans 24H
-http://maxptv.net:8080/rosa/rosa/558
-#EXTINF:-1,The Big Bang Theory 24H
-http://maxptv.net:8080/rosa/rosa/543
-#EXTINF:-1,THE HISTORY CHANNEL FULL HD
-http://maxptv.net:8080/rosa/rosa/3052
-#EXTINF:-1,TLC HD
-http://maxptv.net:8080/rosa/rosa/23
-#EXTINF:-1,TLC SD
-http://maxptv.net:8080/rosa/rosa/22
-#EXTINF:-1,TNT FULLHD
-http://maxptv.net:8080/rosa/rosa/3069
-#EXTINF:-1,TNT HD
-http://maxptv.net:8080/rosa/rosa/21
-#EXTINF:-1,TNT SD
-http://maxptv.net:8080/rosa/rosa/20
-#EXTINF:-1,TNT Series HD
-http://maxptv.net:8080/rosa/rosa/517
-#EXTINF:-1,TNT Series SD
-http://maxptv.net:8080/rosa/rosa/18
-#EXTINF:-1,Todo Mundo Odeia o Cris
-http://maxptv.net:8080/rosa/rosa/317
-#EXTINF:-1,Tom & Jerry  24H
-http://maxptv.net:8080/rosa/rosa/557
-#EXTINF:-1,Tooncast HD
-http://maxptv.net:8080/rosa/rosa/17
-#EXTINF:-1,Tooncast SD
-http://maxptv.net:8080/rosa/rosa/16
-#EXTINF:-1,TV Aparecida FULL HD
-http://maxptv.net:8080/rosa/rosa/3046
-#EXTINF:-1,TV Aparecida HD
-http://maxptv.net:8080/rosa/rosa/15
-#EXTINF:-1,TV Aparecida SD
-http://maxptv.net:8080/rosa/rosa/14
-#EXTINF:-1,TV Rio Preto
-http://maxptv.net:8080/rosa/rosa/13
-#EXTINF:-1,TV RÁ TIM BUM FULL HD H265
-http://maxptv.net:8080/rosa/rosa/3051
-#EXTINF:-1,Two And a Half Man 24H
-http://maxptv.net:8080/rosa/rosa/542
-#EXTINF:-1,Um Maluco No Pedaco  24H
-http://maxptv.net:8080/rosa/rosa/541
-#EXTINF:-1,Universal Channel HD
-http://maxptv.net:8080/rosa/rosa/12
-#EXTINF:-1,Universal Channel SD
-http://maxptv.net:8080/rosa/rosa/11
-#EXTINF:-1,Venus HD
-http://maxptv.net:8080/rosa/rosa/10
-#EXTINF:-1,Venus SD
-http://maxptv.net:8080/rosa/rosa/9
-#EXTINF:-1,VH1 HD
-http://maxptv.net:8080/rosa/rosa/8
-#EXTINF:-1,VH1 SD
-http://maxptv.net:8080/rosa/rosa/7
-#EXTINF:-1,Viva HD
-http://maxptv.net:8080/rosa/rosa/6
-#EXTINF:-1,Viva SD
-http://maxptv.net:8080/rosa/rosa/5
-#EXTINF:-1,Warner Bros HD
-http://maxptv.net:8080/rosa/rosa/4
-#EXTINF:-1,Warner Bros SD
-http://maxptv.net:8080/rosa/rosa/3
-#EXTINF:-1,X-Men Evolution 24H
-http://maxptv.net:8080/rosa/rosa/1483
-#EXTINF:-1,Zoomoo HD
-http://maxptv.net:8080/rosa/rosa/2
-#EXTINF:-1,Zoomoo SD
-http://maxptv.net:8080/rosa/rosa/1
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Variedades", www.listaiptv.gratis
+https://listaiptv.gratis/site.mp4
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT Interior SP
+https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Jornal Caruaru (PE)
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Cidade Verde - (PI)
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?Grupo_UP_e_DOWN
+ 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades",SBT - TV Difusora (MA)
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="Variedades", SBT - TV Serra Dourada - (GO)
+https://5a7bcfb834235.streamlock.net/tvsd2/smil:9cb929910544f649.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Natal
+https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Bahia
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Distrito Federal
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Belo Horizonte
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Manaus
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Rio Grande do Sul
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Variedades",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="Variedades",Band - RBA TV (PA)
+https://cdn.liveplus.io/rba2779/rba2779/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="Variedades", RedeTV!
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w674014198.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="Variedades", TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="Variedades", TV Pampa - RedeTV! RS
+https://stmv1.srvstm.com/maiko7291/maiko7291/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpopsexy.png" group-title="Música", Sexy KpopTV
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoar/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title="Variedades", TV Gazeta (SP)
+http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnn.jpg" group-title="Jornalismo",CNN BRASIL - TEMPORÁRIO
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_tv_guarc3a1.png" group-title="Jornalismo",Record News - TV Guará (MA)
+https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bandnews.png" group-title="Jornalismo",BandNews - TEMPORÁRIO
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Variedades", Rede Brasil (SP)
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/brasiloeste.png" group-title="Variedades", Brasil Oeste (MT)
+https://5d82644094cc0.streamlock.net/8104/8104/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Pública", Cultura Pará
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_itararc3a9.png" group-title="Pública", TV Itararé - Cultura (PB)
+http://stream.tvitarare.com.br/hls/site/site.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="Pública",Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvbaiana.png" group-title="Pública", TV Baiana - Cultura
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png" group-title="Pública",Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="Infantil", Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rtp1_positivo_horiz_rgb.png" group-title="Variedades",RTP 1
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rtpi_c.png" group-title="Variedades",RTP Internacional
+http://streaming-live-app.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="Pública", TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_a_crc3adtica.png" group-title="Variedades", TV A Crítica
+https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="Pública", Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_topo.png" group-title="Variedades", TV União (CE)
+https://5ca42828c3a79.streamlock.net/tvuniao/_definst_/tvuniao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvuniaobrasilia.png" group-title="Variedades", TV União (DF)
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede_famc3adlia.png" group-title="Variedades", Rede Família
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tv8.png" group-title="Variedades", TV8 Brasil
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvliberdade.png" group-title="WebTV", TV Liberdade - WebTV
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="Pública", TV Brasil 2
+https://22722d.ha.azioncdn.net/hls/STsEBCLIVE_1080/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="Pública", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-kronehit_logo2018_nachtblau_rgb.svg_.png" group-title="Música", KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1hd.png" group-title="Música", 1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rvbifdo.png" group-title="Variedades", YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-logo-bile2.png" group-title="Música", Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_capital_1024x1024-768x384.png" group-title="Música", Capital TV
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1200px-radio_m2o_-_logo_2019.svg_.png" group-title="Música", M2O
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/oadvlb8.png" group-title="Música", Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/njhits.png" group-title="Música",NRJ Hits
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmarajoara.png" group-title="Variedades", Rede Brasil - TV Marajoara (PA)
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/toptv.png" group-title="Música",TopTV - TV Estado
+https://cdn.jmvstream.com/w/estado/_definst_/estado/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bandsports.png" group-title="Esportes", BandSports - TEMPORÁRIO
+https://evpp.mm.uol.com.br/geob_band/bandsports/chunklist_w1624254750.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="Esportes", All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/realmadrid.jpg" group-title="Esportes", Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="Variedades",Canal Futura
+https://live.video.globo.com/h/0411586571150144536822615864883502761045757odY6UgBLsGTZxMNgfCWx0g/k/html5/a/A/d/s/hls-futura24ha/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-white.png" group-title="Variedades", CBTV Now
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="Religioso",TV Evangelizar
+http://tvevangelizar01.crossdigital.com.br/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cancaonova.png" group-title="Religioso",Canção Nova
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="Religioso",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title="Religioso",TV Aparecida
+https://59566a7951f71.streamlock.net:8090/tvaparecida/_definst_/tvaparecida.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/seculo21.png" group-title="Religioso", Rede Século 21
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="Religioso", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="Religioso", Novo Tempo
+http://stream.novotempo.com:1935/tv/smil:TvNovoTempoCom.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" group-title="Religioso", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="Religioso", IURD TV
+https://14398c.ha.azioncdn.net/primary/smil:tv_universal.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="Religioso",Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="Religioso",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="Infantil", Gospel Cartoon
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gospel.jpg" group-title="Filmes",Gospel Movie TV
+https://stmv2.srvstm.com/gospelf/gospelf/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/533047_b6dbc13030db4542a3b77df1f2a75435mv2.png" group-title="Variedades",TV Transamérica (PR)
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redeamerica.png" group-title="Variedades",Rede América
+https://mdstrm.com/live-stream-playlist/5daf001b15674d3b61e8f1bd.m3u8?uid=p3zuLtdsvOgJsETYH2XC32sOdD6a0Tqy&sid=b3lz0SO8qnPdEnpC1qujT0I553lbtB5K&pid=K7kR5xXygiNlpAWHpGYiVHbdbSPyA83W&an=screen&at=web-app&av=v5.1.8&ref=&res=1366x654&dnt=true
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/trip.png" group-title="Variedades", Trip Brasil Channel
+https://cdn.jmvstream.com/w/LVW-8765/LVW8765_5Jt1nT4fUj/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-circular.png" group-title="Variedades", 40 Graus TV
+https://5d23bdca513db.streamlock.net/40graustv/40graustv/chunklist_w1659078724.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="Pública", FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/camara.png" group-title="Pública",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvsenado.png" group-title="Pública",TV Senado
+http://www.tvmpf.mpf.mp.br:1935/event455/event455.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvjustica.png" group-title="Pública",TV Justiça
+http://www.tvmpf.mpf.mp.br:1935/event1900/event1900.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvescola.png" group-title="Pública", TV Escola
+https://video-rvd-rj-gw-1.rnp.br/live/ocp(t(FgO7_EmATXI)r(TOqkzw)a(qHlmcw)p(d(lCo)k(ow8)m(C5-egTSp1-0Xr9xpSRQL6Q)n(a(CODpYw)s(H2c)'a(Tt4OSQ)s(_n4)))s(s(p4g)b(O-Sqy_e_0YeOeC8B48Ga1sjgoO2i82M2zB7qD38yiP0-ez02f0jUksn7wye4IgQ1OrKULuXwVKmoOvdIGw)'s(PSY)b(lsIlUWdKhX3NMey8pbgzSArpb0JQZ9AmMX-51AKS-Tcy1mDWugCsEQ29O9B6S91yYewyMBA195sJSwyeAsOnM33FdOaca5tmXCIByIqa)'s(NZ0)b(1tlzcFGL))m(0))/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/morena.png" group-title="WebTV", Via Morena
+https://player-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmax.png" group-title="Variedades", TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/jn5adsaa.jpg" group-title="Variedades", RDC
+https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo2btv-0.png" group-title="WebTV", TV Aracati
+https://livefocamundo.com:8081/8148/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdigitalbirigui.jpg" group-title="WebTV", TV Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ee19d371-e.png" group-title="Variedades", TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/samhost.tvcarioca.png" group-title="WebTV", TV Carioca
+https://5d2c98775bafe.streamlock.net/8180/8180/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sesctv_28201329.png" group-title="Pública", SescTV HD
+https://slbps-sambatech.akamaized.net/live/2472%2C5164%2C6c1f2e9d204aab6374f0bec27834aa95%3Bbase64np%3BPvsLdjEM0QdLO5Q%21/amlst%3APvvzbyxH1AZUexiy/chunklist_b2723840.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_-_canal_sac3bade.jpg" group-title="Pública", Canal Saúde
+https://5a7bcfb834235.streamlock.net/fiocruz/fiocruz/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvideonews.png" group-title="Documentário", TVídeoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/diariodosertao.png" group-title="Variedades", TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redemetropole.png" group-title="Variedades", Rede Metrópole
+http://177.130.81.30:8777/live/cxtv/zxu53V4IBx/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/22415682640x360b2.jpg" group-title="Variedades", TV Vila Velha
+https://cdn.jmvstream.com/w/LVW-8497/LVW8497_dapTBZ4cm4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfuro.png" group-title="Pública", TV Futuro
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="Variedades",ISTV 
+https://cdn.jmvstream.com/w/oscarito/_definst_/oscarito/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canal29.jpg" group-title="Variedades", Canal 29 - WebTV
+https://59f1cbe63db89.streamlock.net:1443/canal29/_definst_/canal29/chunklist_w1422270535.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvabertasp.png" group-title="Pública",TV Aberta SP
+http://v8.ciclano.io:1935/canalpaulo/canalpaulo/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcandideslogo.png" group-title="Variedades",TV Candidés
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/japitv.png" group-title="Variedades",TV Japi
+https://5d2c98775bafe.streamlock.net/8220/8220/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="Pública",TV Maceió (AL)
+https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvjsid.png" group-title="WebTV", TV Sjid (BA)
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="Pública",TV Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="Variedades",Terra Viva
+https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="Variedades", TV Verdes Campos SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/imperialtv.png" group-title="WebTV", Imperial TV - Webtv
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/santacecilia.png" group-title="Variedades",TV Santa Cecília (SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nova.png" group-title="Pública", TV Nova Nordeste - Cultura (PE)
+http://cdn.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvjornallimeira.png" group-title="Variedades", TV Jornal - Limeira SP
+http://flash1.crossdigital.com.br:1935/1998/1998/playlist.m3u8?ISAQUE
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rai.png" group-title="Filmes", RAI Movie (Itália)
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rtl.png" group-title="Música", RTL (Itália)
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b1196000.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/radioU.png" group-title="Música", RadioU
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rock.png" group-title="Música", Rock TV
+http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_top_latino_png_2017_-_500px.png" group-title="Música", Top Latino TV
+https://5cefcbf58ba2e.streamlock.net/livetv/latinoSD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/djing.png" group-title="Música", DJing
+https://www.djing.com/tv/29054-03.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/djing.png" group-title="Música", DJing Animation
+https://www.djing.com/tv/a-28904-04.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/mundo.png" group-title="Variedades", Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnzdrdjj.jpg" group-title="Variedades", TV Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/canalsp.png" group-title="Variedades", Canal São Paulo
+http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/br_boa-vontade-tv_m.png" group-title="Religioso", Boa Vontade TV
+http://api.new.livestream.com:80/accounts/15107153/events/4338771/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/genesis.png" group-title="Religioso", Rede Gênesis
+https://5d23bdca513db.streamlock.net/sara/sara/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cnt.png" group-title="Variedades", CNT
+https://cdn0.showcase.com.br/hls/cnt/cwb.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_sic_2018.png" group-title="Variedades", SIC (apenas em Portugal)
+http://live.impresa.pt/live/sic/sic.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/635px-france24.png" group-title="Jornalismo", France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png" group-title="Jornalismo", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arirang_logo.png" group-title="Jornalismo", Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/bnr_world.png" group-title="Jornalismo", NHK Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/wfxt_boston_25_logo.png" group-title="Jornalismo", Boston 25 News
+https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-bloomberg_television_logo.svg_.png" group-title="Jornalismo", Bloomberg TV
+https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cbsnews.png" group-title="Jornalismo", CBS News
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/dw.png" group-title="Jornalismo", Deutsche Welle
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redbull.png" group-title="Esportes", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rt.png" group-title="Documentário", RT Documentary Channel
+https://rt-doc.secure.footprint.net/1101_1600Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ewtn.png" group-title="Religioso",EWTN
+https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/garagetv.png" group-title="Documentário", Garage TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tves.png" group-title="Variedades", RTVE
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="Variedades", RT en español 
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rainews.png" group-title="Variedades", RAINEWS24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retroplus.png" group-title="Música", Retro Plus
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/theretrofb.jpg" group-title="Música", The Retro Channel
+http://198.24.183.198:1936/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvvitoria.png" group-title="Variedades",TV Vitória Local - RecordTV (ES)
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rictv_logo.png" group-title="Variedades",RICTV Local - RecordTV (SC)
+https://59566a7951f71.streamlock.net:8090/ricsc/ricsc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/combrasil.png" group-title="Pública", TV COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/zoom.png" group-title="WebTV", TV Zoom
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_metrc3b3pole.png" group-title="Pública",TV Metrópole
+http://serv1.videovox.pw/eduardo2183/eduardo2183/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/fm-o-dia-foto.jpg" group-title="Rádio",FM O DIA 100.5 - ESTÚDIO AO VIVO
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/9f41c575-ceca-4863-89e7-85e1628fab94.png" group-title="Rádio",98 Live
+https://cdn.jmvstream.com/w/LVW-8202/ngrp:LVW8202_WXoGmOx1th_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CBN_logo.svg.png" group-title="Rádio",CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
